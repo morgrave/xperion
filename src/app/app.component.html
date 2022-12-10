@@ -1,0 +1,17 @@
+<clr-main-container>
+  <clr-header>
+    <div class="branding">
+      <a routerLink="" class="nav-link">
+        <span class="title">엑스페리온 로그저장소</span>
+      </a>
+    </div>
+  </clr-header>
+  <div class="content-container">
+    <clr-vertical-nav [clr-nav-level]="1" [clrVerticalNavCollapsible]="true">
+      <app-sidebar></app-sidebar>
+    </clr-vertical-nav>
+    <div class="content-area">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</clr-main-container>
