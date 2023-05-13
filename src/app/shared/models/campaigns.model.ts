@@ -163,6 +163,10 @@ export const Campaigns = [
         index: '32',
         name: '32일차',
       },
+      {
+        index: '33',
+        name: '33일차',
+      },
     ],
   },
 ];
