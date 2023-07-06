@@ -23,6 +23,7 @@ export class ViewerService {
   baseHref = this.locationStrategy.getBaseHref();
   curTitle = ``;
   curIndex = ``;
+  curVideo = ``;
   curImages: any[] = [];
   curInterfaces: any[] = [];
   assetSrc = environment.production
@@ -39,6 +40,7 @@ export class ViewerService {
     this.log = ``;
     this.curTitle = campaign.title;
     this.curIndex = log.index;
+    this.curVideo = log.video ? log.video : ``;
     this.curImages = log.images ? log.images : [];
     this.curInterfaces = log.interfaces ? log.interfaces : [];
     if (this.curImages.length) {
