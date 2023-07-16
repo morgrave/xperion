@@ -251,6 +251,11 @@ export const Campaigns = [
         name: '43일차: 간부 럼피의 함선에서',
         video: 'https://www.youtube.com/embed/cp4P8kf69ow',
       },
+      {
+        index: '44',
+        name: '44일차: 전장의 포화',
+        video: 'https://www.youtube.com/embed/VJ3NeHH7DHA',
+      },
     ],
   },
 ];

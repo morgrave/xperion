@@ -14,9 +14,9 @@ import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 export class ViewerPlaylogComponent implements OnInit {
   imgareaX = 0;
   imgareaY = 0;
-  textareaWidth = '405px';
-  textareaLastWidth = 405;
-  textareaCurWidth = 405;
+  textareaWidth = '720px';
+  textareaLastWidth = 720;
+  textareaCurWidth = 720;
 
   constructor(
     @Inject(DOCUMENT) private document: any,
