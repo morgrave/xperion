@@ -256,6 +256,11 @@ export const Campaigns = [
         name: '44일차: 전장의 포화',
         video: 'https://www.youtube.com/embed/VJ3NeHH7DHA',
       },
+      {
+        index: '45',
+        name: '45일차: 와일드본 민병대 구원',
+        video: 'https://www.youtube.com/embed/eolS1ZF6ACk',
+      },
     ],
   },
 ];
