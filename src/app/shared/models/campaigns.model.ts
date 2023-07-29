@@ -261,6 +261,11 @@ export const Campaigns = [
         name: '45일차: 와일드본 민병대 구원',
         video: 'https://www.youtube.com/embed/eolS1ZF6ACk',
       },
+      {
+        index: '46',
+        name: '46일차: 성 내부로 향하는 길',
+        video: 'https://www.youtube.com/embed/DYG3EREGnQE',
+      },
     ],
   },
 ];
