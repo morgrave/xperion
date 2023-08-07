@@ -33,6 +33,11 @@
                 "glob": "**/*.*",
                 "input": "../bookshelf/src/campaigns/S3/logs/",
                 "output": "/campaigns/S3/logs/"
+              },
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/S4/logs/",
+                "output": "/campaigns/S4/logs/"
               }
             ],
             "styles": [

@@ -263,8 +263,32 @@ export const Campaigns = [
       },
       {
         index: '46',
-        name: '46일차: 성 내부로 향하는 길',
+        name: '46일차: 성벽 내부로 향하는 길',
         video: 'https://www.youtube.com/embed/DYG3EREGnQE',
+      },
+      {
+        index: '47',
+        name: '47일차: 유적지에서의 전투',
+        video: 'https://www.youtube.com/embed/OzWMFZqQoks',
+      },
+    ],
+  },
+  {
+    title: 'S4',
+    label: '엑스페리온 시즌 4',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '01',
+        name: '튜토리얼: 칼루스 여관의 만남',
+        video: 'https://www.youtube.com/embed/8TmpBWsEmsA',
+      },
+      {
+        index: '02',
+        name: '튜토리얼: 벨 산림지대 조사',
+        video: 'https://www.youtube.com/embed/r1mRLGS6Cqo',
       },
     ],
   },
