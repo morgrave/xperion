@@ -271,6 +271,11 @@ export const Campaigns = [
         name: '47일차: 유적지에서의 전투',
         video: 'https://www.youtube.com/embed/OzWMFZqQoks',
       },
+      {
+        index: '48',
+        name: '48일차: 1차 성벽을 향한 전진',
+        video: 'https://www.youtube.com/embed/v3e7DZmHDEU',
+      },
     ],
   },
   {
