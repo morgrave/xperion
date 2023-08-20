@@ -276,6 +276,11 @@ export const Campaigns = [
         name: '48일차: 1차 성벽을 향한 전진',
         video: 'https://www.youtube.com/embed/v3e7DZmHDEU',
       },
+      {
+        index: '49',
+        name: '49일차: 아흐마트의 미궁 하수구',
+        video: 'https://www.youtube.com/embed/G3CEkti2KW0',
+      },
     ],
   },
   {
