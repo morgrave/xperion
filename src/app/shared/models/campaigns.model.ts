@@ -281,6 +281,11 @@ export const Campaigns = [
         name: '49일차: 아흐마트의 미궁 하수구',
         video: 'https://www.youtube.com/embed/G3CEkti2KW0',
       },
+      {
+        index: '50',
+        name: '50일차: 아펠리움 시민 대피',
+        video: 'https://www.youtube.com/embed/8FyIj1HuaYA',
+      },
     ],
   },
   {
