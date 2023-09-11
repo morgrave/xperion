@@ -286,6 +286,11 @@ export const Campaigns = [
         name: '50일차: 아펠리움 시민 대피',
         video: 'https://www.youtube.com/embed/8FyIj1HuaYA',
       },
+      {
+        index: '51',
+        name: '51일차: 이교도 지휘부 타격',
+        video: 'https://www.youtube.com/embed/A1pq8mbXedI',
+      },
     ],
   },
   {
