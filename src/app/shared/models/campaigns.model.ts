@@ -291,6 +291,11 @@ export const Campaigns = [
         name: '51일차: 이교도 지휘부 타격',
         video: 'https://www.youtube.com/embed/A1pq8mbXedI',
       },
+      {
+        index: '52',
+        name: '52일차: 아펠리움 내부 성벽 진입',
+        video: 'https://www.youtube.com/embed/1fKxgQudXtc',
+      },
     ],
   },
   {

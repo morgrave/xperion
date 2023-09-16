@@ -47,38 +47,6 @@ export class ViewerPlaylogComponent implements OnInit {
       });
   }
 
-  onScroll(event: any) {
-    const mid = document.getElementById('mid');
-    if (mid) {
-      let curIndex = 0;
-      const curPos = (mid.getBoundingClientRect().top + mid.getBoundingClientRect().bottom) / 2;
-      if (this.viewerService.curImages.length && !this.isMobile()) {
-        this.viewerService.curImages.forEach((img, i) => {
-          const div = document.getElementById(img.id);
-          if (div) {
-            const divPos = (div.getBoundingClientRect().top + div.getBoundingClientRect().bottom) / 2;
-            if (curPos >= divPos) {
-              curIndex = i;
-            }
-          }
-        });
-        this.viewerService.loadImage(curIndex);
-      }
-      if (this.viewerService.curInterfaces.length && !this.isMobile()) {
-        this.viewerService.curInterfaces.forEach((img, i) => {
-          const div = document.getElementById(img.id);
-          if (div) {
-            const divPos = (div.getBoundingClientRect().top + div.getBoundingClientRect().bottom) / 2;
-            if (curPos >= divPos) {
-              curIndex = i;
-            }
-          }
-        });
-        this.viewerService.loadInterface(curIndex);
-      }
-    }
-  }
-
   saveLastPos() {
     const area = document.getElementById('imgarea');
     if (area) {
