@@ -317,4 +317,18 @@ export const Campaigns = [
       },
     ],
   },
+  {
+    title: 'S0',
+    label: '엑스페리온 단편',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '20230921',
+        name: '베네딕타 대수해',
+        video: 'https://www.youtube.com/embed/E-gpojGJwM8',
+      },
+    ],
+  },
 ];
