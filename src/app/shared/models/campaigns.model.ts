@@ -329,6 +329,11 @@ export const Campaigns = [
         name: '베네딕타 대수해',
         video: 'https://www.youtube.com/embed/E-gpojGJwM8',
       },
+      {
+        index: '20230922',
+        name: '중앙 제르마 협곡 1',
+        video: 'https://www.youtube.com/embed/EeY8B01TEbs',
+      },
     ],
   },
 ];
