@@ -296,6 +296,11 @@ export const Campaigns = [
         name: '52일차: 아펠리움 내부 성벽 진입',
         video: 'https://www.youtube.com/embed/1fKxgQudXtc',
       },
+      {
+        index: '53',
+        name: '53일차: 아펠리움의 결의',
+        video: 'https://www.youtube.com/embed/XGWeQAqxRLs',
+      },
     ],
   },
   {
