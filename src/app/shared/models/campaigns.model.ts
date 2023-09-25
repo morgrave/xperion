@@ -344,6 +344,11 @@ export const Campaigns = [
         name: '중앙 제르마 협곡 1',
         video: 'https://www.youtube.com/embed/EeY8B01TEbs',
       },
+      {
+        index: '20230925',
+        name: '중앙 제르마 협곡 2',
+        video: 'https://www.youtube.com/embed/AuQpD3r_WVI',
+      },
     ],
   },
 ];
