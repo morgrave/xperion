@@ -301,6 +301,11 @@ export const Campaigns = [
         name: '53일차: 아펠리움의 결의',
         video: 'https://www.youtube.com/embed/XGWeQAqxRLs',
       },
+      {
+        index: '54',
+        name: '54일차: 아펠리움 방어전',
+        video: 'https://www.youtube.com/embed/3LQqisNHvW4',
+      },
     ],
   },
   {
