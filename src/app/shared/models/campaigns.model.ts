@@ -336,7 +336,7 @@ export const Campaigns = [
     logs: [
       {
         index: '20230921',
-        name: '베네딕타 대수해',
+        name: '베네딕타 대수해 중망호',
         video: 'https://www.youtube.com/embed/E-gpojGJwM8',
       },
       {
@@ -348,6 +348,11 @@ export const Campaigns = [
         index: '20230925',
         name: '중앙 제르마 협곡 2',
         video: 'https://www.youtube.com/embed/AuQpD3r_WVI',
+      },
+      {
+        index: '20230927',
+        name: '베네딕타 대수해 턀망호',
+        video: 'https://www.youtube.com/embed/hgTF17N8ROY',
       },
     ],
   },
