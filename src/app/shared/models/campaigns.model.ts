@@ -354,6 +354,11 @@ export const Campaigns = [
         name: '베네딕타 대수해 턀망호',
         video: 'https://www.youtube.com/embed/hgTF17N8ROY',
       },
+      {
+        index: '20230928',
+        name: '감람석 해안의 비밀 1',
+        video: 'https://www.youtube.com/embed/JEe0YamBpmQ',
+      },
     ],
   },
 ];
