@@ -335,27 +335,32 @@ export const Campaigns = [
     ],
     logs: [
       {
-        index: '20230921',
+        index: '2023092101',
         name: '베네딕타 대수해 중망호',
         video: 'https://www.youtube.com/embed/E-gpojGJwM8',
       },
       {
-        index: '20230922',
+        index: '2023092201',
         name: '중앙 제르마 협곡 1',
         video: 'https://www.youtube.com/embed/EeY8B01TEbs',
       },
       {
-        index: '20230925',
+        index: '2023092501',
         name: '중앙 제르마 협곡 2',
         video: 'https://www.youtube.com/embed/AuQpD3r_WVI',
       },
       {
-        index: '20230927',
+        index: '2023092802',
+        name: '중앙 제르마 협곡 3',
+        video: 'https://www.youtube.com/embed/ux_v4SfbY0o',
+      },
+      {
+        index: '2023092701',
         name: '베네딕타 대수해 턀망호',
         video: 'https://www.youtube.com/embed/hgTF17N8ROY',
       },
       {
-        index: '20230928',
+        index: '2023092801',
         name: '감람석 해안의 비밀 1',
         video: 'https://www.youtube.com/embed/JEe0YamBpmQ',
       },
