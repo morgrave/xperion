@@ -306,6 +306,11 @@ export const Campaigns = [
         name: '54일차: 아펠리움 방어전',
         video: 'https://www.youtube.com/embed/3LQqisNHvW4',
       },
+      {
+        index: '55',
+        name: '55일차: 페메토스 피라미드의 추격',
+        video: 'https://www.youtube.com/embed/UBql3HRuGjc',
+      },
     ],
   },
   {
