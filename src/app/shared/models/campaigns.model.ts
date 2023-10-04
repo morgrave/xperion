@@ -374,6 +374,16 @@ export const Campaigns = [
         name: '감람석 해안의 비밀 2',
         video: 'https://www.youtube.com/embed/kHqUiTvWz0M',
       },
+      {
+        index: '2023100201',
+        name: '시트론 섬의 개척자들 1',
+        video: 'https://www.youtube.com/embed/MXLM3Gf0Lek',
+      },
+      {
+        index: '2023100301',
+        name: '시트론 섬의 개척자들 2',
+        video: 'https://www.youtube.com/embed/i0SYL-LW0Zo',
+      },
     ],
   },
 ];
