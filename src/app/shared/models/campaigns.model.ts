@@ -311,6 +311,11 @@ export const Campaigns = [
         name: '55일차: 페메토스 피라미드의 추격',
         video: 'https://www.youtube.com/embed/UBql3HRuGjc',
       },
+      {
+        index: '56',
+        name: '56일차: 4인 기사단 등장',
+        video: 'https://www.youtube.com/embed/mL16iceeZRo',
+      },
     ],
   },
   {
