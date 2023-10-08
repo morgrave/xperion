@@ -389,6 +389,11 @@ export const Campaigns = [
         name: '시트론 섬의 개척자들 2',
         video: 'https://www.youtube.com/embed/i0SYL-LW0Zo',
       },
+      {
+        index: '2023100801',
+        name: '바로 갬빗이야! 턀망호',
+        video: 'https://youtube.com/live/QHa3tBxyfPo?feature=share',
+      },
     ],
   },
 ];
