@@ -316,6 +316,11 @@ export const Campaigns = [
         name: '56일차: 4인 기사단 등장',
         video: 'https://www.youtube.com/embed/mL16iceeZRo',
       },
+      {
+        index: '57',
+        name: '57일차: 4인 기사단, 결투!',
+        video: 'https://www.youtube.com/embed/IAXBoATjcbg',
+      },
     ],
   },
   {
