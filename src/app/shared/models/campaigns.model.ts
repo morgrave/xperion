@@ -395,6 +395,11 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/i0SYL-LW0Zo',
       },
       {
+        index: '2023100903',
+        name: '시트론 섬의 개척자들 3',
+        video: 'https://www.youtube.com/embed/io-9mUh-QTo',
+      },
+      {
         index: '2023100801',
         name: '바로 갬빗이야! 턀망호',
         video: 'https://youtube.com/live/QHa3tBxyfPo?feature=share',
@@ -406,7 +411,7 @@ export const Campaigns = [
       },
       {
         index: '2023100902',
-        name: '핏빛 눈물 투기장 1',
+        name: '핏빛 눈물 투기장 3-1',
       },
     ],
   },
