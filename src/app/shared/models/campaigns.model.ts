@@ -404,6 +404,10 @@ export const Campaigns = [
         name: '소환의 제단 턀망호',
         video: 'https://www.youtube.com/embed/HBP8GOGozgY',
       },
+      {
+        index: '2023100902',
+        name: '핏빛 눈물 투기장 1',
+      },
     ],
   },
 ];
