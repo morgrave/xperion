@@ -399,6 +399,11 @@ export const Campaigns = [
         name: '바로 갬빗이야! 턀망호',
         video: 'https://youtube.com/live/QHa3tBxyfPo?feature=share',
       },
+      {
+        index: '2023100901',
+        name: '소환의 제단 턀망호',
+        video: 'https://www.youtube.com/embed/HBP8GOGozgY',
+      },
     ],
   },
 ];
