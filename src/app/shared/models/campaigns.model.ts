@@ -400,6 +400,11 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/io-9mUh-QTo',
       },
       {
+        index: '2023101001',
+        name: '시트론 섬의 개척자들 4',
+        video: 'https://www.youtube.com/embed/FcxPi93LZWA',
+      },
+      {
         index: '2023100801',
         name: '바로 갬빗이야! 턀망호',
         video: 'https://youtube.com/live/QHa3tBxyfPo?feature=share',
