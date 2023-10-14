@@ -321,6 +321,11 @@ export const Campaigns = [
         name: '57일차: 4인 기사단, 결투!',
         video: 'https://www.youtube.com/embed/IAXBoATjcbg',
       },
+      {
+        index: '58',
+        name: '58일차: 타락한 태양 알샤함',
+        video: 'https://www.youtube.com/embed/TvJfdgPzRsQ',
+      },
     ],
   },
   {
