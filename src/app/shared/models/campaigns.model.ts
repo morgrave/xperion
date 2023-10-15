@@ -436,6 +436,11 @@ export const Campaigns = [
       {
         index: '2023101301',
         name: '하수구 속의 발톱 1팀',
+        video: 'https://www.youtube.com/embed/sfaKcRBZYls',
+      },
+      {
+        index: '2023101602',
+        name: '하수구 속의 발톱 2팀',
       },
     ],
   },
