@@ -360,6 +360,11 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/V7w0NlCVFw8',
       },
       {
+        index: '2023101601',
+        name: '아스트로 ~행성 탐사자들~ 2',
+        video: 'https://www.youtube.com/embed/pO5c_NaPxO0',
+      },
+      {
         index: '2023092101',
         name: '베네딕타 대수해 중망호',
         video: 'https://www.youtube.com/embed/E-gpojGJwM8',
