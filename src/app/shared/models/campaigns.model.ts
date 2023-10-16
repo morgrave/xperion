@@ -434,6 +434,10 @@ export const Campaigns = [
         name: '핏빛 눈물 투기장 3-1',
       },
       {
+        index: '2023101701',
+        name: '핏빛 눈물 투기장 3-2',
+      },
+      {
         index: '2023101301',
         name: '하수구 속의 발톱 1팀',
         video: 'https://www.youtube.com/embed/sfaKcRBZYls',
