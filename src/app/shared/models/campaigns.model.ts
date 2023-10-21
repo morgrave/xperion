@@ -361,8 +361,13 @@ export const Campaigns = [
       },
       {
         index: '2023101601',
-        name: '아스트로 ~행성 탐사자들~ 2',
+        name: '아스트로 ~행성 탐사자들~ 2 1팀',
         video: 'https://www.youtube.com/embed/pO5c_NaPxO0',
+      },
+      {
+        index: '2023102001',
+        name: '아스트로 ~행성 탐사자들~ 2 2팀',
+        video: 'https://www.youtube.com/embed/KDCHc5u_nh4',
       },
       {
         index: '2023092101',
@@ -420,6 +425,11 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/FcxPi93LZWA',
       },
       {
+        index: '2023101801',
+        name: '시트론 섬의 개척자들 5',
+        video: 'https://www.youtube.com/embed/lYkbxrEfqxo',
+      },
+      {
         index: '2023100801',
         name: '바로 갬빗이야! 턀망호',
         video: 'https://youtube.com/live/QHa3tBxyfPo?feature=share',
@@ -432,10 +442,12 @@ export const Campaigns = [
       {
         index: '2023100902',
         name: '핏빛 눈물 투기장 3-1',
+        video: 'https://www.youtube.com/embed/xel5KLm6OY0',
       },
       {
         index: '2023101701',
         name: '핏빛 눈물 투기장 3-2',
+        video: 'https://www.youtube.com/embed/1NdOkReYgoQ',
       },
       {
         index: '2023101301',
@@ -445,6 +457,16 @@ export const Campaigns = [
       {
         index: '2023101602',
         name: '하수구 속의 발톱 2팀',
+      },
+      {
+        index: '2023101901',
+        name: '아스트로 ~ 누군가의 히어로 1팀',
+        video: 'https://www.youtube.com/embed/473PXRavHts',
+      },
+      {
+        index: '2023102101',
+        name: '아스트로 ~ 누군가의 히어로 2팀',
+        video: 'https://www.youtube.com/embed/o0uOuhzXrCc',
       },
     ],
   },
