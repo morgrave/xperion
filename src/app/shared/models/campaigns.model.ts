@@ -326,6 +326,11 @@ export const Campaigns = [
         name: '58일차: 타락한 태양 알샤함',
         video: 'https://www.youtube.com/embed/TvJfdgPzRsQ',
       },
+      {
+        index: '59',
+        name: '59일차: 페메토스 피라미드의 결전',
+        video: 'https://www.youtube.com/embed/KayNTgl7D6g',
+      },
     ],
   },
   {
