@@ -470,13 +470,23 @@ export const Campaigns = [
       },
       {
         index: '2023101901',
-        name: '아스트로 ~ 누군가의 히어로 1팀',
+        name: '아스트로 ~ 누군가의 히어로 1팀 1일차',
         video: 'https://www.youtube.com/embed/473PXRavHts',
       },
       {
+        index: '2023102201',
+        name: '아스트로 ~ 누군가의 히어로 1팀 2일차',
+        video: 'https://www.youtube.com/embed/GUT0uVqvguU',
+      },
+      {
         index: '2023102101',
-        name: '아스트로 ~ 누군가의 히어로 2팀',
+        name: '아스트로 ~ 누군가의 히어로 2팀 1일차',
         video: 'https://www.youtube.com/embed/o0uOuhzXrCc',
+      },
+      {
+        index: '2023102301',
+        name: '아스트로 ~ 누군가의 히어로 2팀 2일차',
+        video: 'https://www.youtube.com/embed/8pUC1D2aNSk',
       },
     ],
   },
