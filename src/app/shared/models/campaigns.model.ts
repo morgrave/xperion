@@ -331,6 +331,11 @@ export const Campaigns = [
         name: '59일차: 페메토스 피라미드의 결전',
         video: 'https://www.youtube.com/embed/KayNTgl7D6g',
       },
+      {
+        index: '60',
+        name: '60일차: 파크탄 가문 연회 잠입',
+        video: 'https://www.youtube.com/embed/OMe0qH8Hz6w',
+      },
     ],
   },
   {
