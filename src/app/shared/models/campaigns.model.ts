@@ -488,6 +488,11 @@ export const Campaigns = [
         name: '아스트로 ~ 누군가의 히어로 2팀 2일차',
         video: 'https://www.youtube.com/embed/8pUC1D2aNSk',
       },
+      {
+        index: '2023102401',
+        name: '아스트로 ~ 누군가의 히어로 2팀 3일차',
+        video: 'https://www.youtube.com/embed/_KUkz-mWMWI',
+      },
     ],
   },
 ];
