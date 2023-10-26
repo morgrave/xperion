@@ -365,21 +365,6 @@ export const Campaigns = [
     ],
     logs: [
       {
-        index: '2023072201',
-        name: '아스트로 ~행성 탐사자들~',
-        video: 'https://www.youtube.com/embed/V7w0NlCVFw8',
-      },
-      {
-        index: '2023101601',
-        name: '아스트로 ~행성 탐사자들~ 2 1팀',
-        video: 'https://www.youtube.com/embed/pO5c_NaPxO0',
-      },
-      {
-        index: '2023102001',
-        name: '아스트로 ~행성 탐사자들~ 2 2팀',
-        video: 'https://www.youtube.com/embed/KDCHc5u_nh4',
-      },
-      {
         index: '2023092101',
         name: '베네딕타 대수해 중망호',
         video: 'https://www.youtube.com/embed/E-gpojGJwM8',
@@ -468,6 +453,30 @@ export const Campaigns = [
         index: '2023101602',
         name: '하수구 속의 발톱 2팀',
       },
+    ],
+  },
+  {
+    title: 'AST',
+    label: '아스트로',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2023072201',
+        name: '아스트로 ~행성 탐사자들~',
+        video: 'https://www.youtube.com/embed/V7w0NlCVFw8',
+      },
+      {
+        index: '2023101601',
+        name: '아스트로 ~행성 탐사자들~ 2 1팀',
+        video: 'https://www.youtube.com/embed/pO5c_NaPxO0',
+      },
+      {
+        index: '2023102001',
+        name: '아스트로 ~행성 탐사자들~ 2 2팀',
+        video: 'https://www.youtube.com/embed/KDCHc5u_nh4',
+      },
       {
         index: '2023101901',
         name: '아스트로 ~ 누군가의 히어로 1팀 1일차',
@@ -477,6 +486,11 @@ export const Campaigns = [
         index: '2023102201',
         name: '아스트로 ~ 누군가의 히어로 1팀 2일차',
         video: 'https://www.youtube.com/embed/GUT0uVqvguU',
+      },
+      {
+        index: '2023102501',
+        name: '아스트로 ~ 누군가의 히어로 1팀 3일차',
+        video: 'https://www.youtube.com/embed/R6q1szgVur8',
       },
       {
         index: '2023102101',
