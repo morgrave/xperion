@@ -336,6 +336,11 @@ export const Campaigns = [
         name: '60일차: 파크탄 가문 연회 잠입',
         video: 'https://www.youtube.com/embed/OMe0qH8Hz6w',
       },
+      {
+        index: '61',
+        name: '61일차: 연회의 조명 아래에서',
+        video: 'https://www.youtube.com/embed/SrXyoEsMgQE',
+      },
     ],
   },
   {
