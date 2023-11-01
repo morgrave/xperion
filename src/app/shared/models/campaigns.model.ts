@@ -341,6 +341,11 @@ export const Campaigns = [
         name: '61일차: 연회의 조명 아래에서',
         video: 'https://www.youtube.com/embed/SrXyoEsMgQE',
       },
+      {
+        index: '62',
+        name: '62일차: 모래 능선 너머로',
+        video: 'https://www.youtube.com/embed/BP2VtdbZjIQ',
+      },
     ],
   },
   {
@@ -432,6 +437,12 @@ export const Campaigns = [
       {
         index: '2023102701',
         name: '시트론 섬의 개척자들 6',
+        video: 'https://www.youtube.com/embed/V911Y-6GY5o',
+      },
+      {
+        index: '2023102901',
+        name: '시트론 섬의 개척자들 7',
+        video: 'https://www.youtube.com/embed/xTo25V6OX64',
       },
       {
         index: '2023100801',
