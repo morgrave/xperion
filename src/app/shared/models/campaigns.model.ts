@@ -346,6 +346,11 @@ export const Campaigns = [
         name: '62일차: 모래 능선 너머로',
         video: 'https://www.youtube.com/embed/BP2VtdbZjIQ',
       },
+      {
+        index: '63',
+        name: '63일차: 사막 탐사대 합류',
+        video: 'https://www.youtube.com/embed/DWEemEubeLg',
+      },
     ],
   },
   {
@@ -463,6 +468,11 @@ export const Campaigns = [
         index: '2023101701',
         name: '핏빛 눈물 투기장 3-2',
         video: 'https://www.youtube.com/embed/1NdOkReYgoQ',
+      },
+      {
+        index: '2023110101',
+        name: '핏빛 눈물 투기장 4',
+        video: 'https://www.youtube.com/embed/4PSittOA3Z8',
       },
       {
         index: '2023101301',
