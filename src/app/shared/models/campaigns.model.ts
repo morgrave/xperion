@@ -351,6 +351,11 @@ export const Campaigns = [
         name: '63일차: 사막 탐사대 합류',
         video: 'https://www.youtube.com/embed/DWEemEubeLg',
       },
+      {
+        index: '64',
+        name: '64일차: 벌레 굴 탐색',
+        video: 'https://www.youtube.com/embed/fqkuULfUD44',
+      },
     ],
   },
   {
