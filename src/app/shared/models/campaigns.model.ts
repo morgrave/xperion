@@ -356,6 +356,11 @@ export const Campaigns = [
         name: '64일차: 벌레 굴 탐색',
         video: 'https://www.youtube.com/embed/fqkuULfUD44',
       },
+      {
+        index: '65',
+        name: '65일차: 사막의 고양이들',
+        video: 'https://www.youtube.com/embed/bPZqB3xnSuc',
+      },
     ],
   },
   {
