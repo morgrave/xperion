@@ -361,6 +361,11 @@ export const Campaigns = [
         name: '65일차: 사막의 고양이들',
         video: 'https://www.youtube.com/embed/bPZqB3xnSuc',
       },
+      {
+        index: '66',
+        name: '66일차: 오쉬메트의 신전을 향하여',
+        video: 'https://www.youtube.com/embed/GclwchIf0Os',
+      },
     ],
   },
   {
