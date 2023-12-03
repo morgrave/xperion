@@ -366,6 +366,11 @@ export const Campaigns = [
         name: '66일차: 오쉬메트의 신전을 향하여',
         video: 'https://www.youtube.com/embed/GclwchIf0Os',
       },
+      {
+        index: '67',
+        name: '67일차: 벌레 굴의 혈투',
+        video: 'https://www.youtube.com/embed/h4dWcXmMKXc',
+      },
     ],
   },
   {
