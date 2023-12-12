@@ -17,10 +17,17 @@ export class ViewerTextComponent implements OnInit {
   ngOnInit() {
     let node = document.createElement('script');
     node.dataset["repo"]="morgrave/xperion"
-    node.dataset["issueTerm"]="pathname"
-    node.dataset["theme"]="github-light"
-    node.dataset["crossorigin"]="anonymous"
-    node.src = "https://utteranc.es/client.js";
+    node.dataset["repoId"]="R_kgDOIl1gMg"
+    node.dataset["category"]="General"
+    node.dataset["categoryId"]="DIC_kwDOIl1gMs4CbrQG"
+    node.dataset["mapping"]="pathname"
+    node.dataset["strict"]="0"
+    node.dataset["reactionsEnabled"]="0"
+    node.dataset["emitMetadata"]="0"
+    node.dataset["inputPosition"]="bottom"
+    node.dataset["theme"]="preferred_color_scheme"
+    node.dataset["lang"]="ko"
+    node.src = "https://giscus.app/client.js";
     node.type = 'text/javascript';
     node.async = true;
     document.getElementsByClassName('comment')[0].appendChild(node);
