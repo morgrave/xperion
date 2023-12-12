@@ -31,6 +31,16 @@
               "src/assets",
               {
                 "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/AST/logs/",
+                "output": "/campaigns/AST/logs/"
+              },
+              {
+                "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/S0/logs/",
+                "output": "/campaigns/S0/logs/"
+              },
+              {
+                "glob": "**/*.*",
                 "input": "../bookshelf/src/campaigns/S3/logs/",
                 "output": "/campaigns/S3/logs/"
               },

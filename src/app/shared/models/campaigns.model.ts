@@ -371,6 +371,11 @@ export const Campaigns = [
         name: '67일차: 벌레 굴의 혈투',
         video: 'https://www.youtube.com/embed/h4dWcXmMKXc',
       },
+      {
+        index: '68',
+        name: '68일차: 세 유물이 모이다',
+        video: 'https://www.youtube.com/embed/L-qO7ixSMsk',
+      },
     ],
   },
   {
