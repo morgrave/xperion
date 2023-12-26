@@ -31,6 +31,11 @@
               "src/assets",
               {
                 "glob": "**/*.*",
+                "input": "../bookshelf/src/campaigns/ARA/logs/",
+                "output": "/campaigns/ARA/logs/"
+              },
+              {
+                "glob": "**/*.*",
                 "input": "../bookshelf/src/campaigns/AST/logs/",
                 "output": "/campaigns/AST/logs/"
               },

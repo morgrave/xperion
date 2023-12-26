@@ -569,4 +569,18 @@ export const Campaigns = [
       },
     ],
   },
+  {
+    title: 'ARA',
+    label: '시간선상의 아리아',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2023122401',
+        name: '시간선상의 아리아 1',
+        video: 'https://www.youtube.com/embed/pwA-lRnl6JM',
+      },
+    ],
+  },
 ];
