@@ -591,6 +591,11 @@ export const Campaigns = [
         name: '시간선상의 아리아 3',
         video: 'https://www.youtube.com/embed/AZg4OeVSGvI',
       },
+      {
+        index: '2024011401',
+        name: '시간선상의 아리아 4',
+        video: 'https://www.youtube.com/embed/3xYSikI4LnM',
+      },
     ],
   },
 ];
