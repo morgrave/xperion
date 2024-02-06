@@ -596,6 +596,31 @@ export const Campaigns = [
         name: '시간선상의 아리아 4',
         video: 'https://www.youtube.com/embed/3xYSikI4LnM',
       },
+      {
+        index: '2024011801',
+        name: '시간선상의 아리아 5',
+        video: 'https://www.youtube.com/embed/A-mRaNT27q8',
+      },
+      {
+        index: '2024012701',
+        name: '시간선상의 아리아 6',
+        video: 'https://www.youtube.com/embed/rbzCeiMwYFM',
+      },
+      {
+        index: '2024013001',
+        name: '시간선상의 아리아 켈시&마뇽',
+        video: 'https://www.youtube.com/embed/nlk2RcVWfV8',
+      },
+      {
+        index: '2024020201',
+        name: '시간선상의 아리아 류월',
+        video: 'https://www.youtube.com/embed/HJgHdOcrEnc',
+      },
+      {
+        index: '2024020301',
+        name: '시간선상의 아리아 7',
+        video: 'https://www.youtube.com/embed/RJ5TZfcN9jM',
+      },
     ],
   },
 ];
