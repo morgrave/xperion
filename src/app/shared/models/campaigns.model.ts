@@ -376,6 +376,11 @@ export const Campaigns = [
         name: '68일차: 세 유물이 모이다',
         video: 'https://www.youtube.com/embed/L-qO7ixSMsk',
       },
+      {
+        index: '69',
+        name: '69일차: 영원한 일식 세토스카',
+        video: 'https://www.youtube.com/embed/FxJJhk7ZifA',
+      },
     ],
   },
   {
@@ -624,7 +629,12 @@ export const Campaigns = [
       {
         index: '2024021201',
         name: '시간선상의 아리아 8',
-        video: 'https://www.youtube.com/embed/RJ5TZfcN9jM',
+        video: 'https://www.youtube.com/embed/i_fGIx0lJmk',
+      },
+      {
+        index: '2024021801',
+        name: '시간선상의 아리아 9',
+        video: 'https://www.youtube.com/embed/G1wy1f86zLE',
       },
     ],
   },
