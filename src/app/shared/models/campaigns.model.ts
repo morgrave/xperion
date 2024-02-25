@@ -518,6 +518,11 @@ export const Campaigns = [
         index: '2023101602',
         name: '하수구 속의 발톱 2팀',
       },
+      {
+        index: '2024022602',
+        name: '하늘탑을 향하여 1',
+        video: 'https://www.youtube.com/embed/lGSbfGB8m3s',
+      },
     ],
   },
   {
@@ -640,6 +645,11 @@ export const Campaigns = [
         index: '2024021801',
         name: '시간선상의 아리아 9',
         video: 'https://www.youtube.com/embed/G1wy1f86zLE',
+      },
+      {
+        index: '2024022601',
+        name: '시간선상의 아리아 10',
+        video: 'https://www.youtube.com/embed/Y0BUa_Nm3QU',
       },
     ],
   },
