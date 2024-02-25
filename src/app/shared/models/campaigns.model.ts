@@ -381,6 +381,11 @@ export const Campaigns = [
         name: '69일차: 영원한 일식 세토스카',
         video: 'https://www.youtube.com/embed/FxJJhk7ZifA',
       },
+      {
+        index: '70',
+        name: '70일차: 지하굴의 결전',
+        video: 'https://www.youtube.com/embed/hUSx86OJ_Xc',
+      },
     ],
   },
   {
