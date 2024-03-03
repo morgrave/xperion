@@ -523,6 +523,11 @@ export const Campaigns = [
         name: '하늘탑을 향하여 1',
         video: 'https://www.youtube.com/embed/lGSbfGB8m3s',
       },
+      {
+        index: '2024030301',
+        name: '하늘탑을 향하여 2',
+        video: 'https://www.youtube.com/embed/5eRH51CA-Uw',
+      },
     ],
   },
   {
