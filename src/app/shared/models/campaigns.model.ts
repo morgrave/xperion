@@ -386,6 +386,11 @@ export const Campaigns = [
         name: '70일차: 지하굴의 결전',
         video: 'https://www.youtube.com/embed/hUSx86OJ_Xc',
       },
+      {
+        index: '71',
+        name: '71일차: 다르고시아나 귀환',
+        video: 'https://www.youtube.com/embed/ZUjTfgqLtB4',
+      },
     ],
   },
   {
