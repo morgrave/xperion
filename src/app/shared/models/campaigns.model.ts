@@ -538,6 +538,11 @@ export const Campaigns = [
         name: '하늘탑을 향하여 2',
         video: 'https://www.youtube.com/embed/5eRH51CA-Uw',
       },
+      {
+        index: '2024031101',
+        name: '하늘탑을 향하여 3',
+        video: 'https://www.youtube.com/embed/dXGFUGlDRpU',
+      },
     ],
   },
   {
@@ -665,6 +670,11 @@ export const Campaigns = [
         index: '2024022601',
         name: '시간선상의 아리아 10',
         video: 'https://www.youtube.com/embed/Y0BUa_Nm3QU',
+      },
+      {
+        index: '2024031102',
+        name: '시간선상의 아리아 11',
+        video: 'https://www.youtube.com/embed/Zfv7mPerhhY',
       },
     ],
   },
