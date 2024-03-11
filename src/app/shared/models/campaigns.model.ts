@@ -391,6 +391,11 @@ export const Campaigns = [
         name: '71일차: 다르고시아나 귀환',
         video: 'https://www.youtube.com/embed/ZUjTfgqLtB4',
       },
+      {
+        index: '72',
+        name: '72일차: 대공 파틸라흐만 알현',
+        video: 'https://www.youtube.com/embed/7gF3qFYnc38',
+      },
     ],
   },
   {
