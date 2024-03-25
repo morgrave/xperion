@@ -396,6 +396,11 @@ export const Campaigns = [
         name: '72일차: 대공 파틸라흐만 알현',
         video: 'https://www.youtube.com/embed/7gF3qFYnc38',
       },
+      {
+        index: '73',
+        name: '73일차: 사막의 그림자',
+        video: 'https://www.youtube.com/embed/MWG4114QX28',
+      },
     ],
   },
   {
