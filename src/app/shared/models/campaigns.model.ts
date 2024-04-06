@@ -401,6 +401,11 @@ export const Campaigns = [
         name: '73일차: 사막의 그림자',
         video: 'https://www.youtube.com/embed/MWG4114QX28',
       },
+      {
+        index: '74',
+        name: '74일차: 호수 위의 결전',
+        video: 'https://www.youtube.com/embed/hvKCKC2NGnQ',
+      },
     ],
   },
   {
