@@ -406,6 +406,11 @@ export const Campaigns = [
         name: '74일차: 호수 위의 결전',
         video: 'https://www.youtube.com/embed/hvKCKC2NGnQ',
       },
+      {
+        index: '75',
+        name: '75일차: 이름없는 신전',
+        video: 'https://www.youtube.com/embed/s2OaHBWw3Xo',
+      },
     ],
   },
   {
