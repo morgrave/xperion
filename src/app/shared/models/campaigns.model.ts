@@ -411,6 +411,11 @@ export const Campaigns = [
         name: '75일차: 이름없는 신전',
         video: 'https://www.youtube.com/embed/s2OaHBWw3Xo',
       },
+      {
+        index: '76',
+        name: '76일차: 젤로이스와 다섯 용사들',
+        video: 'https://www.youtube.com/embed/LjaTU3glEUM',
+      },
     ],
   },
   {
