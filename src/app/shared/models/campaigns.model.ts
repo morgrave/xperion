@@ -416,6 +416,11 @@ export const Campaigns = [
         name: '76일차: 젤로이스와 다섯 용사들',
         video: 'https://www.youtube.com/embed/LjaTU3glEUM',
       },
+      {
+        index: '77',
+        name: '77일차: 벤틀리와의 재회는...',
+        video: 'https://www.youtube.com/embed/KvZ2tf2OtWo',
+      },
     ],
   },
   {
