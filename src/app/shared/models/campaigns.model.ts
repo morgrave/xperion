@@ -421,6 +421,11 @@ export const Campaigns = [
         name: '77일차: 벤틀리와의 재회는...',
         video: 'https://www.youtube.com/embed/KvZ2tf2OtWo',
       },
+      {
+        index: '78',
+        name: '78일차: 토르보스의 전령',
+        video: 'https://www.youtube.com/embed/-ahj-xvzI1A',
+      },
     ],
   },
   {
