@@ -426,6 +426,16 @@ export const Campaigns = [
         name: '78일차: 토르보스의 전령',
         video: 'https://www.youtube.com/embed/-ahj-xvzI1A',
       },
+      {
+        index: '79',
+        name: '79일차: 최후의 전투',
+        video: 'https://www.youtube.com/embed/YHV9lSBe4Jw',
+      },
+      {
+        index: '80',
+        name: '80일차: 다고시안 듀얼단 마지막 이야기',
+        video: 'https://www.youtube.com/embed/ozMT3JVsBu0',
+      },
     ],
   },
   {
@@ -715,6 +725,11 @@ export const Campaigns = [
         index: '2024041401',
         name: '시간선상의 아리아 13',
         video: 'https://www.youtube.com/embed/Yv9HC9kdl24',
+      },
+      {
+        index: '2024050401',
+        name: '시간선상의 아리아 14',
+        video: 'https://www.youtube.com/embed/R9y6iyN4bMk',
       },
     ],
   },
