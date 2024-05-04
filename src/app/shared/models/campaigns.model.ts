@@ -433,7 +433,7 @@ export const Campaigns = [
       },
       {
         index: '80',
-        name: '80일차: 다고시안 듀얼단 마지막 이야기',
+        name: '80일차: 다고시안 듀얼단 -完-',
         video: 'https://www.youtube.com/embed/ozMT3JVsBu0',
       },
     ],
