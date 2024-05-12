@@ -583,6 +583,11 @@ export const Campaigns = [
         name: '하늘탑을 향하여 3',
         video: 'https://www.youtube.com/embed/dXGFUGlDRpU',
       },
+      {
+        index: '2024051301',
+        name: '군드렌 락시커 구출작전',
+        video: 'https://www.youtube.com/embed/k9Rz7XvKPh4',
+      },
     ],
   },
   {
