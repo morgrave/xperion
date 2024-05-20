@@ -598,6 +598,11 @@ export const Campaigns = [
         name: '군드렌 락시커 구출작전',
         video: 'https://www.youtube.com/embed/k9Rz7XvKPh4',
       },
+      {
+        index: '2024052001',
+        name: '용의 영혼 1일차',
+        video: 'https://www.youtube.com/embed/T8tAP0dJoFA',
+      },
     ],
   },
   {
