@@ -603,6 +603,11 @@ export const Campaigns = [
         name: '용의 영혼 1일차',
         video: 'https://www.youtube.com/embed/T8tAP0dJoFA',
       },
+      {
+        index: '2024052701',
+        name: '용의 영혼 2일차',
+        video: 'https://www.youtube.com/embed/2_M_SS_O2y8',
+      },
     ],
   },
   {
