@@ -768,4 +768,17 @@ export const Campaigns = [
       },
     ],
   },
+  {
+    title: 'PER',
+    label: '페리아의 문장',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2024060101',
+        name: '페리아의 문장 1팀 1',
+      },
+    ],
+  },
 ];
