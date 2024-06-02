@@ -782,7 +782,11 @@ export const Campaigns = [
     logs: [
       {
         index: '2024060101',
-        name: '페리아의 문장 1팀 1',
+        name: '페리아의 문장 1팀 1화',
+      },
+      {
+        index: '2024060201',
+        name: '페리아의 문장 2팀 1화',
       },
     ],
   },
