@@ -773,7 +773,7 @@ export const Campaigns = [
       },
       {
         index: '2024060301',
-        name: '시간선상의 아리아 16',
+        name: '시간선상의 아리아 17',
         video: 'https://www.youtube.com/embed/vU52WGRJkZc',
       },
     ],
