@@ -776,6 +776,11 @@ export const Campaigns = [
         name: '시간선상의 아리아 17',
         video: 'https://www.youtube.com/embed/vU52WGRJkZc',
       },
+      {
+        index: '2024061001',
+        name: '시간선상의 아리아 18',
+        video: 'https://www.youtube.com/embed/wW5g5DW6QsQ',
+      },
     ],
   },
   {
@@ -793,6 +798,7 @@ export const Campaigns = [
       {
         index: '2024060801',
         name: '페리아의 문장 1팀 2화',
+        video: 'https://www.youtube.com/embed/kz1A3nMwJVw',
       },
       {
         index: '2024060201',
@@ -802,6 +808,7 @@ export const Campaigns = [
       {
         index: '2024060901',
         name: '페리아의 문장 2팀 2화',
+        video: 'https://www.youtube.com/embed/uwscrJ3d-zA',
       },
     ],
   },
