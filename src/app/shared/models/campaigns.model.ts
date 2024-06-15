@@ -801,6 +801,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/kz1A3nMwJVw',
       },
       {
+        index: '2024061501',
+        name: '페리아의 문장 1팀 3화',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
