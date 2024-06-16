@@ -817,7 +817,7 @@ export const Campaigns = [
       },
       {
         index: '2024061601',
-        name: '페리아의 문장 2팀 2화',
+        name: '페리아의 문장 2팀 3화',
         video: 'https://www.youtube.com/embed/rc1zVKa3umg',
       },
     ],
