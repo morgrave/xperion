@@ -792,27 +792,31 @@ export const Campaigns = [
     logs: [
       {
         index: '2024060101',
-        name: '페리아의 문장 1팀 1화',
+        name: '페리아의 문장 1팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/PIcf_sz2jzc',
       },
       {
         index: '2024060801',
-        name: '페리아의 문장 1팀 2화',
+        name: '페리아의 문장 1팀 2화: 사원의 섬',
         video: 'https://www.youtube.com/embed/kz1A3nMwJVw',
       },
       {
         index: '2024061501',
-        name: '페리아의 문장 1팀 3화',
+        name: '페리아의 문장 1팀 3화: 사원의 섬',
         video: 'https://www.youtube.com/embed/oilNXo_HvxE',
       },
       {
+        index: '2024062201',
+        name: '페리아의 문장 1팀 4화: 페르하이트 채굴지',
+      },
+      {
         index: '2024060201',
-        name: '페리아의 문장 2팀 1화',
+        name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
       },
       {
         index: '2024060901',
-        name: '페리아의 문장 2팀 2화',
+        name: '페리아의 문장 2팀 2화: 사원의 섬',
         video: 'https://www.youtube.com/embed/uwscrJ3d-zA',
       },
       {
