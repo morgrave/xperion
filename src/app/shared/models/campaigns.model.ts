@@ -782,7 +782,7 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/wW5g5DW6QsQ',
       },
       {
-        index: '2024062401',
+        index: '2024062301',
         name: '시간선상의 아리아 19',
         video: 'https://www.youtube.com/embed/UMLQphbqRfk',
       },
@@ -828,6 +828,10 @@ export const Campaigns = [
         index: '2024061601',
         name: '페리아의 문장 2팀 3화',
         video: 'https://www.youtube.com/embed/rc1zVKa3umg',
+      },
+      {
+        index: '2024062302',
+        name: '페리아의 문장 2팀 4화',
       },
     ],
   },
