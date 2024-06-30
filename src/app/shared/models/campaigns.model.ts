@@ -813,6 +813,7 @@ export const Campaigns = [
       {
         index: '2024062201',
         name: '페리아의 문장 1팀 4화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/TIav_6QPkbQ',
       },
       {
         index: '2024062901',
@@ -836,6 +837,11 @@ export const Campaigns = [
       {
         index: '2024062302',
         name: '페리아의 문장 2팀 4화',
+        video: 'https://www.youtube.com/embed/qayO0q1i75k',
+      },
+      {
+        index: '2024063001',
+        name: '페리아의 문장 2팀 5화',
       },
     ],
   },
