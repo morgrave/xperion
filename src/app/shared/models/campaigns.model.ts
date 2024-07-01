@@ -786,6 +786,11 @@ export const Campaigns = [
         name: '시간선상의 아리아 19',
         video: 'https://www.youtube.com/embed/UMLQphbqRfk',
       },
+      {
+        index: '2024070201',
+        name: '시간선상의 아리아 20',
+        video: 'https://www.youtube.com/embed/Ry_XWHJhXdo',
+      },
     ],
   },
   {
@@ -818,6 +823,7 @@ export const Campaigns = [
       {
         index: '2024062901',
         name: '페리아의 문장 1팀 5화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/_tiOr-S1PUU',
       },
       {
         index: '2024060201',
@@ -831,17 +837,18 @@ export const Campaigns = [
       },
       {
         index: '2024061601',
-        name: '페리아의 문장 2팀 3화',
+        name: '페리아의 문장 2팀 3화: 푸른차원 숲',
         video: 'https://www.youtube.com/embed/rc1zVKa3umg',
       },
       {
         index: '2024062302',
-        name: '페리아의 문장 2팀 4화',
+        name: '페리아의 문장 2팀 4화: 푸른차원 숲',
         video: 'https://www.youtube.com/embed/qayO0q1i75k',
       },
       {
         index: '2024063001',
-        name: '페리아의 문장 2팀 5화',
+        name: '페리아의 문장 2팀 5화: 푸른차원 숲',
+        video: 'https://www.youtube.com/embed/k4T4rnrhKDE',
       },
     ],
   },
