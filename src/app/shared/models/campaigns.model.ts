@@ -826,6 +826,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/_tiOr-S1PUU',
       },
       {
+        index: '2024070601',
+        name: '페리아의 문장 1팀 6화: 페르하이트 채굴지',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
