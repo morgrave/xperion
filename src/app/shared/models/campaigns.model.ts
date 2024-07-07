@@ -854,6 +854,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 5화: 푸른차원 숲',
         video: 'https://www.youtube.com/embed/k4T4rnrhKDE',
       },
+      {
+        index: '2024070701',
+        name: '페리아의 문장 2팀 6화: 푸른차원 숲',
+      },
     ],
   },
 ];
