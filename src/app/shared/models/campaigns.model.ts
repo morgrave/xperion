@@ -614,8 +614,18 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/lDxmaGXrf5g',
       },
       {
+        index: '2024071303',
+        name: '닭들이 한 마리도 죽지 않은 날 1팀',
+        video: 'https://www.youtube.com/embed/lCgFJz2iCho',
+      },
+      {
+        index: '2024071304',
+        name: '닭들이 한 마리도 죽지 않은 날 2팀',
+        video: 'https://www.youtube.com/embed/DBKxL5MszEQ',
+      },
+      {
         index: '2024071302',
-        name: '닭들이 한 마리도 죽지 않은 날',
+        name: '닭들이 한 마리도 죽지 않은 날 3팀',
         video: 'https://www.youtube.com/embed/GHjewPEF_lE',
       },
     ],
