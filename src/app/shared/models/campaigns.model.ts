@@ -613,6 +613,11 @@ export const Campaigns = [
         name: '용의 영혼 3일차',
         video: 'https://www.youtube.com/embed/lDxmaGXrf5g',
       },
+      {
+        index: '2024071302',
+        name: '닭들이 한 마리도 죽지 않은 날',
+        video: 'https://www.youtube.com/embed/GHjewPEF_lE',
+      },
     ],
   },
   {
@@ -828,6 +833,12 @@ export const Campaigns = [
       {
         index: '2024070601',
         name: '페리아의 문장 1팀 6화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/A2Ylmzg5Zfc',
+      },
+      {
+        index: '2024071301',
+        name: '페리아의 문장 1팀 7화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/DMovp3QeTic',
       },
       {
         index: '2024060201',
@@ -857,6 +868,7 @@ export const Campaigns = [
       {
         index: '2024070701',
         name: '페리아의 문장 2팀 6화: 푸른차원 숲',
+        video: 'https://www.youtube.com/embed/U5PeJCQCbHw',
       },
     ],
   },
