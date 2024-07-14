@@ -806,6 +806,11 @@ export const Campaigns = [
         name: '시간선상의 아리아 20',
         video: 'https://www.youtube.com/embed/Ry_XWHJhXdo',
       },
+      {
+        index: '2024071401',
+        name: '시간선상의 아리아 21',
+        video: 'https://www.youtube.com/embed/j7zNPYkYm4M',
+      },
     ],
   },
   {
@@ -879,6 +884,11 @@ export const Campaigns = [
         index: '2024070701',
         name: '페리아의 문장 2팀 6화: 푸른차원 숲',
         video: 'https://www.youtube.com/embed/U5PeJCQCbHw',
+      },
+      {
+        index: '2024071402',
+        name: '페리아의 문장 2팀 7화: 푸른차원 숲',
+        video: 'https://www.youtube.com/embed/1tsDn6QjCT4',
       },
     ],
   },
