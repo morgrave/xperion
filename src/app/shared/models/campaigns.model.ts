@@ -891,8 +891,12 @@ export const Campaigns = [
       },
       {
         index: '2024071402',
-        name: '페리아의 문장 2팀 7화: 푸른차원 숲',
+        name: '페리아의 문장 2팀 7화: 존재에 대하여',
         video: 'https://www.youtube.com/embed/1tsDn6QjCT4',
+      },
+      {
+        index: '2024072101',
+        name: '페리아의 문장 2팀 8화: 존재에 대하여',
       },
     ],
   },
