@@ -858,6 +858,11 @@ export const Campaigns = [
       {
         index: '2024072001',
         name: '페리아의 문장 1팀 8화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/T_Ey1O_P15k',
+      },
+      {
+        index: '2024072701',
+        name: '페리아의 문장 1팀 9화: 페르하이트 채굴지',
       },
       {
         index: '2024060201',
