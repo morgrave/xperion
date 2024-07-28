@@ -902,6 +902,11 @@ export const Campaigns = [
       {
         index: '2024072101',
         name: '페리아의 문장 2팀 8화: 존재에 대하여',
+        video: 'https://www.youtube.com/embed/aAeVBbPNWsg',
+      },
+      {
+        index: '2024072801',
+        name: '페리아의 문장 2팀 9화: 존재에 대하여',
       },
     ],
   },
