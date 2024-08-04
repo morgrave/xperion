@@ -863,6 +863,11 @@ export const Campaigns = [
       {
         index: '2024072701',
         name: '페리아의 문장 1팀 9화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/K-zU--1mPGA',
+      },
+      {
+        index: '2024080301',
+        name: '페리아의 문장 1팀 10화: 불타는 감시터',
       },
       {
         index: '2024060201',
@@ -907,6 +912,11 @@ export const Campaigns = [
       {
         index: '2024072801',
         name: '페리아의 문장 2팀 9화: 존재에 대하여',
+        video: 'https://www.youtube.com/embed/Y5fRRwum0l8',
+      },
+      {
+        index: '2024080401',
+        name: '페리아의 문장 2팀 10화: 태초의 서식처',
       },
     ],
   },
