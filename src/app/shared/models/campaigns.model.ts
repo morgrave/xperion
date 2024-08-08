@@ -631,6 +631,75 @@ export const Campaigns = [
     ],
   },
   {
+    title: 'CRC',
+    label: '크림슨 크리스탈',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2023041501',
+        name: '크림슨 크리스탈 1',
+        video: 'https://www.youtube.com/embed/qIusTgJ9TT4',
+      },
+      {
+        index: '2023042301',
+        name: '크림슨 크리스탈 2',
+        video: 'https://www.youtube.com/embed/IyC1PZ034uk',
+      },
+      {
+        index: '2023043001',
+        name: '크림슨 크리스탈 3',
+        video: 'https://www.youtube.com/embed/P7xH43_-K90',
+      },
+      {
+        index: '2023051401',
+        name: '크림슨 크리스탈 4',
+        video: 'https://www.youtube.com/embed/mmU9QXvU4DQ',
+      },
+      {
+        index: '2023052101',
+        name: '크림슨 크리스탈 5',
+        video: 'https://www.youtube.com/embed/Pz23cRH37aA',
+      },
+      {
+        index: '2023052701',
+        name: '크림슨 크리스탈 6',
+        video: 'https://www.youtube.com/embed/nClIQhJ30GI',
+      },
+      {
+        index: '2023052801',
+        name: '크림슨 크리스탈 7',
+        video: 'https://www.youtube.com/embed/nwrFFa7Pfdg',
+      },
+      {
+        index: '2023060401',
+        name: '크림슨 크리스탈 8',
+        video: 'https://www.youtube.com/embed/AodLb5lWLVc',
+      },
+      {
+        index: '2023061001',
+        name: '크림슨 크리스탈 9',
+        video: 'https://www.youtube.com/embed/0dNCTGBMzvs',
+      },
+      {
+        index: '2023061801',
+        name: '크림슨 크리스탈 10',
+        video: 'https://www.youtube.com/embed/vsz0uEwKj4k',
+      },
+      {
+        index: '2023062501',
+        name: '크림슨 크리스탈 11',
+        video: 'https://www.youtube.com/embed/PbQBlkLnhZc',
+      },
+      {
+        index: '2023070201',
+        name: '크림슨 크리스탈 12',
+        video: 'https://www.youtube.com/embed/XqGJGiEBEkY',
+      },
+    ],
+  },
+  {
     title: 'AST',
     label: '아스트로',
     platform: 'ccfolia',
