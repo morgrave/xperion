@@ -631,6 +631,44 @@ export const Campaigns = [
     ],
   },
   {
+    title: 'CC',
+    label: '(구) 크림슨 크리스탈',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2022102201',
+        name: '튜토리얼',
+      },
+      {
+        index: '2022110501',
+        name: '크림슨 크리스탈 1',
+        video: 'https://www.youtube.com/embed/ICqU9AGh4jA',
+      },
+      {
+        index: '2022111201',
+        name: '크림슨 크리스탈 2',
+        video: 'https://www.youtube.com/embed/TtDpj7utidQ',
+      },
+      {
+        index: '2022111901',
+        name: '크림슨 크리스탈 3',
+        video: 'https://www.youtube.com/embed/4Y1Q7cM5NdY',
+      },
+      {
+        index: '2022112601',
+        name: '크림슨 크리스탈 4',
+        video: 'https://www.youtube.com/embed/Pbh-lqKhrQA',
+      },
+      {
+        index: '2022120301',
+        name: '크림슨 크리스탈 5',
+        video: 'https://www.youtube.com/embed/REx2L1STaVI',
+      },
+    ],
+  },
+  {
     title: 'CRC',
     label: '크림슨 크리스탈',
     platform: 'ccfolia',
