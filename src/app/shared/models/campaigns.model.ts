@@ -628,6 +628,10 @@ export const Campaigns = [
         name: '닭들이 한 마리도 죽지 않은 날 3팀',
         video: 'https://www.youtube.com/embed/GHjewPEF_lE',
       },
+      {
+        index: '2024082501',
+        name: '살아있는 치킨들의 밤',
+      },
     ],
   },
   {
