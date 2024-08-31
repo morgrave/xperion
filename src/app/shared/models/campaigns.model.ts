@@ -1007,6 +1007,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/EXzifRc-h6g',
       },
       {
+        index: '2024083101',
+        name: '페리아의 문장 1팀 13화: 불타는 감시터',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
@@ -1064,6 +1068,7 @@ export const Campaigns = [
       {
         index: '2024082502',
         name: '페리아의 문장 2팀 12화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/HHdRY64S8sM',
       },
     ],
   },
