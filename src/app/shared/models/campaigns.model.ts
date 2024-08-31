@@ -632,6 +632,10 @@ export const Campaigns = [
         index: '2024082501',
         name: '살아있는 치킨들의 밤',
       },
+      {
+        index: '2024083102',
+        name: '살아있는 치킨들의 밤',
+      },
     ],
   },
   {
