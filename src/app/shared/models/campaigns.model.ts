@@ -1079,6 +1079,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 12화: 태초의 서식처',
         video: 'https://www.youtube.com/embed/HHdRY64S8sM',
       },
+      {
+        index: '2024090102',
+        name: '페리아의 문장 2팀 13화: 태초의 서식처',
+      },
     ],
   },
 ];
