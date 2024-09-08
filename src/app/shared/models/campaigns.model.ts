@@ -1098,6 +1098,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 13화: 태초의 서식처',
         video: 'https://www.youtube.com/embed/avmZ-dei0zs',
       },
+      {
+        index: '2024090802',
+        name: '페리아의 문장 2팀 14화: 크림슨 크리스탈',
+      },
     ],
   },
 ];
