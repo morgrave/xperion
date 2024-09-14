@@ -1032,6 +1032,11 @@ export const Campaigns = [
       {
         index: '2024090701',
         name: '페리아의 문장 1팀 14화: 불타는 감시터',
+        video: 'https://www.youtube.com/embed/3Mu52Qp_0o0',
+      },
+      {
+        index: '2024091401',
+        name: '페리아의 문장 1팀 15화: 불타는 감시터',
       },
       {
         index: '2024060201',
@@ -1101,6 +1106,7 @@ export const Campaigns = [
       {
         index: '2024090802',
         name: '페리아의 문장 2팀 14화: 크림슨 크리스탈',
+        video: 'https://www.youtube.com/embed/CockzpzVFyk',
       },
     ],
   },
