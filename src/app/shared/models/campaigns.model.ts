@@ -1108,6 +1108,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 14화: 크림슨 크리스탈',
         video: 'https://www.youtube.com/embed/CockzpzVFyk',
       },
+      {
+        index: '2024092001',
+        name: '페리아의 문장 2팀 15화: 크림슨 크리스탈',
+      },
     ],
   },
 ];
