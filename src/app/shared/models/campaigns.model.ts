@@ -1037,6 +1037,11 @@ export const Campaigns = [
       {
         index: '2024091401',
         name: '페리아의 문장 1팀 15화: 불타는 감시터',
+        video: 'https://www.youtube.com/embed/ILatieFNEdc',
+      },
+      {
+        index: '2024092101',
+        name: '페리아의 문장 1팀 16화: 불타는 감시터',
       },
       {
         index: '2024060201',
