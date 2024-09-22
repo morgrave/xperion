@@ -1121,6 +1121,12 @@ export const Campaigns = [
       {
         index: '2024092001',
         name: '페리아의 문장 2팀 15화: 크림슨 크리스탈',
+        video: 'https://www.youtube.com/embed/YVj9yA0EfBY',
+      },
+      {
+        index: '2024092202',
+        name: '페리아의 문장 2팀 16화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/8LuBDB1JDeE',
       },
     ],
   },
