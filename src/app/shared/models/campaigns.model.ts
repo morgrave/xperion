@@ -1047,6 +1047,12 @@ export const Campaigns = [
       {
         index: '2024092101',
         name: '페리아의 문장 1팀 16화: 불타는 감시터',
+        video: 'https://www.youtube.com/embed/yFtL_B2FP2w',
+      },
+      {
+        index: '2024092801',
+        name: '페리아의 문장 1팀 17화: 우상을 잃은 자',
+        video: 'https://www.youtube.com/embed/D7Z4I3WmD6M',
       },
       {
         index: '2024060201',
