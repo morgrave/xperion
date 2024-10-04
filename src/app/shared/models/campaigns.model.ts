@@ -1142,6 +1142,12 @@ export const Campaigns = [
       {
         index: '2024092701',
         name: '페리아의 문장 2팀 17화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/4IW4IRgMbno',
+      },
+      {
+        index: '2024100401',
+        name: '페리아의 문장 2팀 18화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/zk-N_K6TB5A',
       },
     ],
   },
