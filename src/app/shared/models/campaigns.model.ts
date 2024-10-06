@@ -455,6 +455,11 @@ export const Campaigns = [
         name: '튜토리얼: 벨 산림지대 조사',
         video: 'https://www.youtube.com/embed/r1mRLGS6Cqo',
       },
+      {
+        index: '0',
+        name: '프롤로그: 노스 실리온의 재회',
+        video: 'https://www.youtube.com/embed/WcouGNwgMb0',
+      },
     ],
   },
   {
