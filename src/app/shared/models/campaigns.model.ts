@@ -1077,6 +1077,11 @@ export const Campaigns = [
       {
         index: '2024100501',
         name: '페리아의 문장 1팀 18화: 우상을 잃은 자',
+        video: 'https://www.youtube.com/embed/ontWaMI_Gi4',
+      },
+      {
+        index: '2024101901',
+        name: '페리아의 문장 1팀 19화: 우상을 잃은 자',
       },
       {
         index: '2024060201',
@@ -1167,6 +1172,11 @@ export const Campaigns = [
         index: '2024100401',
         name: '페리아의 문장 2팀 18화: 태초의 서식처',
         video: 'https://www.youtube.com/embed/zk-N_K6TB5A',
+      },
+      {
+        index: '2024101801',
+        name: '페리아의 문장 2팀 19화: 불타는 감시터',
+        video: 'https://www.youtube.com/embed/X7Dt_8DWBxg',
       },
     ],
   },
