@@ -1082,6 +1082,7 @@ export const Campaigns = [
       {
         index: '2024101901',
         name: '페리아의 문장 1팀 19화: 우상을 잃은 자',
+        video: 'https://www.youtube.com/embed/D3nKLZpg5v0',
       },
       {
         index: '2024060201',
