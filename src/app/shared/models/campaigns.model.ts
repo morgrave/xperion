@@ -460,6 +460,11 @@ export const Campaigns = [
         name: '프롤로그: 노스 실리온의 재회',
         video: 'https://www.youtube.com/embed/WcouGNwgMb0',
       },
+      {
+        index: '1',
+        name: '1화',
+        video: 'https://www.youtube.com/embed/yhZSnT_rong',
+      },
     ],
   },
   {
@@ -644,6 +649,10 @@ export const Campaigns = [
       {
         index: '2024090702',
         name: '살아있는 치킨들의 밤 3팀',
+      },
+      {
+        index: '2024102001',
+        name: 'Mr. 주황의 살인사건',
       },
     ],
   },
