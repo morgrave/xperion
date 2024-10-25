@@ -1188,6 +1188,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 19화: 불타는 감시터',
         video: 'https://www.youtube.com/embed/X7Dt_8DWBxg',
       },
+      {
+        index: '2024102501',
+        name: '페리아의 문장 2팀 20화: 불타는 감시터',
+      },
     ],
   },
 ];
