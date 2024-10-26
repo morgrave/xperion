@@ -1094,6 +1094,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/D3nKLZpg5v0',
       },
       {
+        index: '2024102601',
+        name: '페리아의 문장 2팀 20화: 헌신자의 매장터',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
