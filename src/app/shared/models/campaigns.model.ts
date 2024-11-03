@@ -465,6 +465,11 @@ export const Campaigns = [
         name: '1화',
         video: 'https://www.youtube.com/embed/yhZSnT_rong',
       },
+      {
+        index: '2',
+        name: '2화',
+        video: 'https://www.youtube.com/embed/ur1Lb5mNMnQ',
+      },
     ],
   },
   {
@@ -1100,7 +1105,7 @@ export const Campaigns = [
       },
       {
         index: '2024110201',
-        name: '페리아의 문장 1팀 20화: 헌신자의 매장터',
+        name: '페리아의 문장 1팀 21화: 헌신자의 매장터',
       },
       {
         index: '2024060201',
