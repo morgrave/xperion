@@ -997,6 +997,20 @@ export const Campaigns = [
     ],
   },
   {
+    title: 'DMB',
+    label: '죽음의 무도',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2024110901',
+        name: '죽음의 무도 1',
+        video: 'https://www.youtube.com/embed/jUTpg48MlOs',
+      },
+    ],
+  },
+  {
     title: 'PER',
     label: '페리아의 문장',
     platform: 'ccfolia',
