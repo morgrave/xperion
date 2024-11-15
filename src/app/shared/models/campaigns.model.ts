@@ -1231,6 +1231,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 21화: 불타는 감시터',
         video: 'https://www.youtube.com/embed/aiMWAwKIa_0',
       },
+      {
+        index: '2024111501',
+        name: '페리아의 문장 2팀 21화: 불타는 감시터',
+      },
     ],
   },
 ];
