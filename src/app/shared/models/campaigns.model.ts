@@ -475,6 +475,11 @@ export const Campaigns = [
         name: '3화',
         video: 'https://www.youtube.com/embed/7gadnwpJL6c',
       },
+      {
+        index: '4',
+        name: '4화',
+        video: 'https://www.youtube.com/embed/it5lBJkX6CA',
+      },
     ],
   },
   {
