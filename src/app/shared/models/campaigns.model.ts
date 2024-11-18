@@ -1138,7 +1138,7 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/z_UiQYrZQ3E',
       },
       {
-        index: '2024111501',
+        index: '2024111601',
         name: '페리아의 문장 1팀 22화: 헌신자의 매장터',
       },
       {
