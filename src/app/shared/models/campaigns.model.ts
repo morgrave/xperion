@@ -1023,6 +1023,11 @@ export const Campaigns = [
         name: '죽음의 무도 2',
         video: 'https://www.youtube.com/embed/miRR9Rx4XN8',
       },
+      {
+        index: '2024112001',
+        name: '죽음의 무도 3',
+        video: 'https://www.youtube.com/embed/v_bK_OgPShI',
+      },
     ],
   },
   {
