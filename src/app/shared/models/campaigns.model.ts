@@ -1145,6 +1145,11 @@ export const Campaigns = [
       {
         index: '2024111601',
         name: '페리아의 문장 1팀 22화: 헌신자의 매장터',
+        video: 'https://www.youtube.com/embed/6fClCxSoLrw',
+      },
+      {
+        index: '2024112301',
+        name: '페리아의 문장 1팀 23화: 헌신자의 매장터',
       },
       {
         index: '2024060201',
@@ -1255,6 +1260,11 @@ export const Campaigns = [
         index: '2024111501',
         name: '페리아의 문장 2팀 22화: 불타는 감시터',
         video: 'https://www.youtube.com/embed/5NX7f81eJyk',
+      },
+      {
+        index: '2024112201',
+        name: '페리아의 문장 2팀 23화: 불타는 감시터',
+        video: 'https://www.youtube.com/embed/Ex2Ee0R2bco',
       },
     ],
   },
