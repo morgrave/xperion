@@ -1271,6 +1271,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 23화: 불타는 감시터',
         video: 'https://www.youtube.com/embed/Ex2Ee0R2bco',
       },
+      {
+        index: '2024112901',
+        name: '페리아의 문장 2팀 24화: 불타는 감시터',
+      },
     ],
   },
 ];
