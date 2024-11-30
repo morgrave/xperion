@@ -1033,6 +1033,11 @@ export const Campaigns = [
         name: '죽음의 무도 3',
         video: 'https://www.youtube.com/embed/v_bK_OgPShI',
       },
+      {
+        index: '2024113002',
+        name: '죽음의 무도 4',
+        video: 'https://www.youtube.com/embed/MaCPjZ9gyGU',
+      },
     ],
   },
   {
@@ -1155,6 +1160,11 @@ export const Campaigns = [
       {
         index: '2024112301',
         name: '페리아의 문장 1팀 23화: 헌신자의 매장터',
+        video: 'https://www.youtube.com/embed/pPITQs6LYaI',
+      },
+      {
+        index: '2024113001',
+        name: '페리아의 문장 1팀 24화: 헌신자의 매장터',
       },
       {
         index: '2024060201',
