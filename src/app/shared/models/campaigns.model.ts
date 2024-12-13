@@ -1306,6 +1306,11 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 25화: 불타는 감시터',
         video: 'https://www.youtube.com/embed/VGomTqqSJaQ',
       },
+      {
+        index: '2024121301',
+        name: '페리아의 문장 2팀 26화: 불타는 감시터',
+        video: 'https://www.youtube.com/embed/QztNZPogy2I',
+      },
     ],
   },
 ];
