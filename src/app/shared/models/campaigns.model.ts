@@ -1058,6 +1058,11 @@ export const Campaigns = [
         name: '죽음의 무도 6',
         video: 'https://www.youtube.com/embed/K8QxEElNQKs',
       },
+      {
+        index: '2024122102',
+        name: '죽음의 무도 7',
+        video: 'https://www.youtube.com/embed/eJALCkjgYf4',
+      },
     ],
   },
   {
@@ -1195,6 +1200,12 @@ export const Campaigns = [
       {
         index: '2024121401',
         name: '페리아의 문장 1팀 26화: 헌신자의 매장터',
+        video: 'https://www.youtube.com/embed/eWHJIAPNhHo',
+      },
+      {
+        index: '2024122101',
+        name: '페리아의 문장 1팀 27화: 자유를 잃은 자',
+        video: 'https://www.youtube.com/embed/VQzjkVaJbAo',
       },
       {
         index: '2024060201',
