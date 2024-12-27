@@ -1345,6 +1345,11 @@ export const Campaigns = [
       {
         index: '2024122601',
         name: '페리아의 문장 2팀 27화: 불타는 감시터',
+        video: 'https://www.youtube.com/embed/0UuCmFL7gdo',
+      },
+      {
+        index: '2024122701',
+        name: '페리아의 문장 2팀 28화: 불타는 감시터',
       },
     ],
   },
