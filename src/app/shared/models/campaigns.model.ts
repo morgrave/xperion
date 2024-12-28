@@ -1068,6 +1068,11 @@ export const Campaigns = [
         name: '죽음의 무도 7',
         video: 'https://www.youtube.com/embed/eJALCkjgYf4',
       },
+      {
+        index: '2024122802',
+        name: '죽음의 무도 8',
+        video: 'https://www.youtube.com/embed/DB72I-w-bEw',
+      },
     ],
   },
   {
@@ -1213,6 +1218,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/VQzjkVaJbAo',
       },
       {
+        index: '2024122801',
+        name: '페리아의 문장 1팀 28화: 자유를 잃은 자',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
@@ -1350,6 +1359,7 @@ export const Campaigns = [
       {
         index: '2024122701',
         name: '페리아의 문장 2팀 28화: 불타는 감시터',
+        video: 'https://www.youtube.com/embed/2KtDaLQS-LA',
       },
     ],
   },
