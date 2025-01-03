@@ -1366,6 +1366,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 28화: 불타는 감시터',
         video: 'https://www.youtube.com/embed/2KtDaLQS-LA',
       },
+      {
+        index: '2025010301',
+        name: '페리아의 문장 2팀 29화: 페르하이트 채굴지',
+      },
     ],
   },
 ];
