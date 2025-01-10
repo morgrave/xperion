@@ -1383,4 +1383,18 @@ export const Campaigns = [
       },
     ],
   },
+  {
+    title: 'DSI',
+    label: '무인도',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2025011001',
+        name: '테스트 1화',
+        video: 'https://www.youtube.com/embed/rgxEPYTtj0k',
+      },
+    ]
+  }
 ];
