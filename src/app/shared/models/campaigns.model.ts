@@ -505,6 +505,11 @@ export const Campaigns = [
         name: '9화',
         video: 'https://www.youtube.com/embed/uWIxarFRKm8',
       },
+      {
+        index: '10',
+        name: '10화',
+        video: 'https://www.youtube.com/embed/a5d1WIy1gr0',
+      },
     ],
   },
   {
@@ -1225,6 +1230,7 @@ export const Campaigns = [
       {
         index: '2024122801',
         name: '페리아의 문장 1팀 28화: 자유를 잃은 자',
+        video: 'https://www.youtube.com/embed/l-Cc3XbWHqo',
       },
       {
         index: '2025010401',
@@ -1373,6 +1379,7 @@ export const Campaigns = [
       {
         index: '2025010301',
         name: '페리아의 문장 2팀 29화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/czIf3JKeSKc',
       },
     ],
   },
