@@ -1083,6 +1083,11 @@ export const Campaigns = [
         name: '죽음의 무도 8',
         video: 'https://www.youtube.com/embed/DB72I-w-bEw',
       },
+      {
+        index: '2025011102',
+        name: '죽음의 무도 9',
+        video: 'https://www.youtube.com/embed/eIh1z3rhYBA',
+      },
     ],
   },
   {
@@ -1235,6 +1240,12 @@ export const Campaigns = [
       {
         index: '2025010401',
         name: '페리아의 문장 1팀 29화: 푸른차원 숲',
+        video: 'https://www.youtube.com/embed/dCR7O3Z5Qu4',
+      },
+      {
+        index: '2025011101',
+        name: '페리아의 문장 1팀 30화: 푸른차원 숲',
+        video: 'https://www.youtube.com/embed/UEnWHRCiQ04',
       },
       {
         index: '2024060201',
