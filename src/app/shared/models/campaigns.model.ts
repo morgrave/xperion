@@ -510,6 +510,11 @@ export const Campaigns = [
         name: '10화',
         video: 'https://www.youtube.com/embed/a5d1WIy1gr0',
       },
+      {
+        index: '11',
+        name: '11화',
+        video: 'https://www.youtube.com/embed/ju01RRVW8to',
+      },
     ],
   },
   {
