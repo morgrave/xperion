@@ -1411,6 +1411,11 @@ export const Campaigns = [
         name: '테스트 1화',
         video: 'https://www.youtube.com/embed/rgxEPYTtj0k',
       },
+      {
+        index: '2025011701',
+        name: '테스트 2화',
+        video: 'https://www.youtube.com/embed/pCU3y8ppxn8',
+      },
     ]
   }
 ];
