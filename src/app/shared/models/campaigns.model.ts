@@ -515,6 +515,11 @@ export const Campaigns = [
         name: '11화',
         video: 'https://www.youtube.com/embed/ju01RRVW8to',
       },
+      {
+        index: '12',
+        name: '12화',
+        video: 'https://www.youtube.com/embed/qcuCrB6tFP4',
+      },
     ],
   },
   {
@@ -1094,7 +1099,7 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/eIh1z3rhYBA',
       },
       {
-        index: '2025011802',
+        index: '2025011801',
         name: '죽음의 무도 10',
         video: 'https://www.youtube.com/embed/wMWqutoqnZU',
       },
