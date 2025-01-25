@@ -1263,6 +1263,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/UEnWHRCiQ04',
       },
       {
+        index: '2025012501',
+        name: '페리아의 문장 1팀 31화: 푸른차원 숲',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
@@ -1408,8 +1412,9 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/czIf3JKeSKc',
       },
       {
-        index: '2025012501',
+        index: '2025012401',
         name: '페리아의 문장 2팀 30화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/dRHWBwU8dyc',
       },
     ],
   },
