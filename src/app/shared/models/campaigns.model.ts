@@ -714,6 +714,10 @@ export const Campaigns = [
         index: '2024102001',
         name: 'Mr. 주황의 살인사건',
       },
+      {
+        index: '2025012701',
+        name: '안녕, 쥐식기들 1',
+      },
     ],
   },
   {
