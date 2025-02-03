@@ -717,6 +717,11 @@ export const Campaigns = [
       {
         index: '2025012701',
         name: '안녕, 쥐식기들 1',
+        video: 'https://www.youtube.com/embed/YfknFWAMswY',
+      },
+      {
+        index: '2025020301',
+        name: '안녕, 쥐식기들 2',
       },
     ],
   },
