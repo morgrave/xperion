@@ -1445,6 +1445,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 31화: 페르하이트 채굴지',
         video: 'https://www.youtube.com/embed/8KCMNPSbPiw',
       },
+      {
+        index: '2025020701',
+        name: '페리아의 문장 2팀 32화: 페르하이트 채굴지',
+      },
     ],
   },
   {
