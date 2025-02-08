@@ -1122,6 +1122,11 @@ export const Campaigns = [
         name: '죽음의 무도 11',
         video: 'https://www.youtube.com/embed/5t7YGxA6G_s',
       },
+      {
+        index: '2025020802',
+        name: '죽음의 무도 12',
+        video: 'https://www.youtube.com/embed/w9SUllwocCI',
+      },
     ],
   },
   {
@@ -1289,6 +1294,11 @@ export const Campaigns = [
       {
         index: '2025020101',
         name: '페리아의 문장 1팀 32화: 푸른차원 숲',
+        video: 'https://www.youtube.com/embed/TevwcuWhC5o',
+      },
+      {
+        index: '2025020801',
+        name: '페리아의 문장 1팀 33화: 푸른차원 숲',
       },
       {
         index: '2024060201',
@@ -1448,6 +1458,7 @@ export const Campaigns = [
       {
         index: '2025020701',
         name: '페리아의 문장 2팀 32화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/pcPiusmlg84',
       },
     ],
   },
