@@ -525,6 +525,11 @@ export const Campaigns = [
         name: '13화',
         video: 'https://www.youtube.com/embed/0eeYYT0-i0U',
       },
+      {
+        index: '14',
+        name: '14화',
+        video: 'https://www.youtube.com/embed/5j2sLimHy_o',
+      },
     ],
   },
   {
@@ -1299,6 +1304,7 @@ export const Campaigns = [
       {
         index: '2025020801',
         name: '페리아의 문장 1팀 33화: 푸른차원 숲',
+        video: 'https://www.youtube.com/embed/O-oTYhwy0hs',
       },
       {
         index: '2024060201',
