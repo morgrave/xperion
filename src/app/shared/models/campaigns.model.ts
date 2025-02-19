@@ -744,6 +744,11 @@ export const Campaigns = [
         name: '안녕, 쥐식기들 3',
         video: 'https://www.youtube.com/embed/P7kAHaMwueA',
       },
+      {
+        index: '2025021701',
+        name: '안녕, 쥐식기들 4',
+        video: 'https://www.youtube.com/embed/M50HVH_pMKA',
+      },
     ],
   },
   {
