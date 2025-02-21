@@ -1495,6 +1495,11 @@ export const Campaigns = [
       {
         index: '2025021901',
         name: '페리아의 문장 2팀 33화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/0NNuSpN3fTY',
+      },
+      {
+        index: '2025022101',
+        name: '페리아의 문장 2팀 34화: 페르하이트 채굴지',
       },
     ],
   },
