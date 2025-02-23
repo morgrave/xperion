@@ -540,6 +540,11 @@ export const Campaigns = [
         name: '15화',
         video: 'https://www.youtube.com/embed/6NzCJgf4pNA',
       },
+      {
+        index: '16',
+        name: '16화',
+        video: 'https://www.youtube.com/embed/vl3fxWzUh3Q',
+      },
     ],
   },
   {
@@ -1500,6 +1505,7 @@ export const Campaigns = [
       {
         index: '2025022101',
         name: '페리아의 문장 2팀 34화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/EIW7r6jPnK8',
       },
     ],
   },
