@@ -757,6 +757,7 @@ export const Campaigns = [
       {
         index: '2025022401',
         name: '안녕, 쥐식기들 5',
+        video: 'https://www.youtube.com/embed/-t0kZPUmrF8',
       },
     ],
   },
@@ -1510,6 +1511,10 @@ export const Campaigns = [
         index: '2025022101',
         name: '페리아의 문장 2팀 34화: 페르하이트 채굴지',
         video: 'https://www.youtube.com/embed/EIW7r6jPnK8',
+      },
+      {
+        index: '2025022801',
+        name: '페리아의 문장 2팀 35화: 페르하이트 채굴지',
       },
     ],
   },
