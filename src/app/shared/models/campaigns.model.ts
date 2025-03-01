@@ -1163,6 +1163,11 @@ export const Campaigns = [
         name: '죽음의 무도 12',
         video: 'https://www.youtube.com/embed/w9SUllwocCI',
       },
+      {
+        index: '2025030102',
+        name: '죽음의 무도 13',
+        video: 'https://www.youtube.com/embed/bg0f7ahmbXc',
+      },
     ],
   },
   {
@@ -1343,6 +1348,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/JoqqFTfoUr8',
       },
       {
+        index: '2025030101',
+        name: '페리아의 문장 1팀 35화: 근원을 잃은 자',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
@@ -1514,7 +1523,8 @@ export const Campaigns = [
       },
       {
         index: '2025022801',
-        name: '페리아의 문장 2팀 35화: 페르하이트 채굴지',
+        name: '페리아의 문장 2팀 35화: 복수에 대하여',
+        video: 'https://www.youtube.com/embed/497lo_gUMRk',
       },
     ],
   },
