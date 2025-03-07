@@ -1531,6 +1531,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 35화: 복수에 대하여',
         video: 'https://www.youtube.com/embed/497lo_gUMRk',
       },
+      {
+        index: '2025030701',
+        name: '페리아의 문장 2팀 36화: 복수에 대하여',
+      },
     ],
   },
   {
