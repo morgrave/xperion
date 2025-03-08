@@ -1355,6 +1355,11 @@ export const Campaigns = [
       {
         index: '2025030101',
         name: '페리아의 문장 1팀 35화: 근원을 잃은 자',
+        video: 'https://www.youtube.com/embed/6q9EdXrOR7s',
+      },
+      {
+        index: '2025030801',
+        name: '페리아의 문장 1팀 36화: 근원을 잃은 자',
       },
       {
         index: '2024060201',
@@ -1534,6 +1539,7 @@ export const Campaigns = [
       {
         index: '2025030701',
         name: '페리아의 문장 2팀 36화: 복수에 대하여',
+        video: 'https://www.youtube.com/embed/IFlPi0h4fyI',
       },
     ],
   },
