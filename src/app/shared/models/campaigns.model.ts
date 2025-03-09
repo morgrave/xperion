@@ -550,6 +550,11 @@ export const Campaigns = [
         name: '17화',
         video: 'https://www.youtube.com/embed/HmJtq0DkzJw',
       },
+      {
+        index: '18',
+        name: '18화',
+        video: 'https://www.youtube.com/embed/n71qOpwscA0',
+      },
     ],
   },
   {
@@ -1360,6 +1365,7 @@ export const Campaigns = [
       {
         index: '2025030801',
         name: '페리아의 문장 1팀 36화: 근원을 잃은 자',
+        video: 'https://www.youtube.com/embed/Q_bk60u7z7U',
       },
       {
         index: '2024060201',
