@@ -1178,6 +1178,11 @@ export const Campaigns = [
         name: '죽음의 무도 13',
         video: 'https://www.youtube.com/embed/bg0f7ahmbXc',
       },
+      {
+        index: '2025031502',
+        name: '죽음의 무도 14',
+        video: 'https://www.youtube.com/embed/Gwp0jPod4Lk',
+      },
     ],
   },
   {
@@ -1366,6 +1371,11 @@ export const Campaigns = [
         index: '2025030801',
         name: '페리아의 문장 1팀 36화: 근원을 잃은 자',
         video: 'https://www.youtube.com/embed/Q_bk60u7z7U',
+      },
+      {
+        index: '2025031501',
+        name: '페리아의 문장 1팀 37화: 근원을 잃은 자',
+        video: 'https://www.youtube.com/embed/X33M2hnFs_s',
       },
       {
         index: '2024060201',
