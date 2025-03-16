@@ -555,6 +555,11 @@ export const Campaigns = [
         name: '18화',
         video: 'https://www.youtube.com/embed/n71qOpwscA0',
       },
+      {
+        index: '19',
+        name: '19화',
+        video: 'https://www.youtube.com/embed/gGI1V7PrJBM',
+      },
     ],
   },
   {
