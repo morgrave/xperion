@@ -1567,6 +1567,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 37화: 복수에 대하여',
         video: 'https://www.youtube.com/embed/YVulksc4Uso',
       },
+      {
+        index: '2025032101',
+        name: '페리아의 문장 2팀 38화: 페르하이트 채굴지',
+      },
     ],
   },
   {
