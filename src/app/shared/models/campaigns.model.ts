@@ -1383,6 +1383,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/X33M2hnFs_s',
       },
       {
+        index: '2025032201',
+        name: '페리아의 문장 1팀 38화: 근원을 잃은 자',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
@@ -1570,6 +1574,7 @@ export const Campaigns = [
       {
         index: '2025032101',
         name: '페리아의 문장 2팀 38화: 페르하이트 채굴지',
+        video: 'https://www.youtube.com/embed/kNfw0IhQOP4',
       },
     ],
   },
