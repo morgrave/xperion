@@ -1581,6 +1581,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 38화: 페르하이트 채굴지',
         video: 'https://www.youtube.com/embed/kNfw0IhQOP4',
       },
+      {
+        index: '2025032801',
+        name: '페리아의 문장 2팀 39화: 헌신자의 매장터',
+      },
     ],
   },
   {
