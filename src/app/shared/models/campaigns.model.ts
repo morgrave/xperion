@@ -1193,6 +1193,11 @@ export const Campaigns = [
         name: '죽음의 무도 14',
         video: 'https://www.youtube.com/embed/Gwp0jPod4Lk',
       },
+      {
+        index: '2025032902',
+        name: '죽음의 무도 15',
+        video: 'https://www.youtube.com/embed/hwameqIctB4',
+      },
     ],
   },
   {
@@ -1390,6 +1395,11 @@ export const Campaigns = [
       {
         index: '2025032201',
         name: '페리아의 문장 1팀 38화: 근원을 잃은 자',
+        video: 'https://www.youtube.com/embed/WJcIIhlpT4w',
+      },
+      {
+        index: '2025032901',
+        name: '페리아의 문장 1팀 39화: 동맹을 찾아서',
       },
       {
         index: '2024060201',
@@ -1584,6 +1594,7 @@ export const Campaigns = [
       {
         index: '2025032801',
         name: '페리아의 문장 2팀 39화: 헌신자의 매장터',
+        video: 'https://www.youtube.com/embed/o8vAQR65Zsg',
       },
     ],
   },
