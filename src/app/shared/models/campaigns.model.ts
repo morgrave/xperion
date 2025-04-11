@@ -1611,6 +1611,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 39화: 헌신자의 매장터',
         video: 'https://www.youtube.com/embed/o8vAQR65Zsg',
       },
+      {
+        index: '2025041101',
+        name: '페리아의 문장 2팀 40화: 동맹을 찾아서',
+      },
     ],
   },
   {
