@@ -1415,6 +1415,11 @@ export const Campaigns = [
       {
         index: '2025032901',
         name: '페리아의 문장 1팀 39화: 동맹을 찾아서',
+        video: 'https://www.youtube.com/embed/AsvH-9Z9Xas',
+      },
+      {
+        index: '2025041201',
+        name: '페리아의 문장 1팀 40화: 동맹을 찾아서',
       },
       {
         index: '2024060201',
@@ -1614,6 +1619,7 @@ export const Campaigns = [
       {
         index: '2025041101',
         name: '페리아의 문장 2팀 40화: 동맹을 찾아서',
+        video: 'https://www.youtube.com/embed/ahSewYOSEnY',
       },
     ],
   },
