@@ -1430,6 +1430,7 @@ export const Campaigns = [
       {
         index: '2025041201',
         name: '페리아의 문장 1팀 40화: 동맹을 찾아서',
+        video: 'https://www.youtube.com/embed/aTi0FEzF_UM',
       },
       {
         index: '2024060201',
@@ -1623,13 +1624,17 @@ export const Campaigns = [
       },
       {
         index: '2025032801',
-        name: '페리아의 문장 2팀 39화: 헌신자의 매장터',
+        name: '페리아의 문장 2팀 39화: 동맹을 찾아서',
         video: 'https://www.youtube.com/embed/o8vAQR65Zsg',
       },
       {
         index: '2025041101',
         name: '페리아의 문장 2팀 40화: 동맹을 찾아서',
         video: 'https://www.youtube.com/embed/ahSewYOSEnY',
+      },
+      {
+        index: '2025041801',
+        name: '페리아의 문장 2팀 41화: 헌신자의 매장터',
       },
     ],
   },
