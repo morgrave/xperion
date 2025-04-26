@@ -1233,6 +1233,16 @@ export const Campaigns = [
         name: '죽음의 무도 18',
         video: 'https://www.youtube.com/embed/dMrivyNDtN4',
       },
+      {
+        index: '2025042602',
+        name: '죽음의 무도 19',
+        video: 'https://www.youtube.com/embed/khlpFGT6wqo',
+      },
+      {
+        index: 'omake',
+        name: '죽음의 무도 팬 영상',
+        video: 'https://www.youtube.com/embed/QnAmjBZtu64',
+      },
     ],
   },
   {
@@ -1445,6 +1455,11 @@ export const Campaigns = [
       {
         index: '2025041901',
         name: '페리아의 문장 1팀 41화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/PFjoDjjBNoI',
+      },
+      {
+        index: '2025042601',
+        name: '페리아의 문장 1팀 42화: 태초의 서식처',
       },
       {
         index: '2024060201',
