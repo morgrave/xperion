@@ -1467,6 +1467,10 @@ export const Campaigns = [
         name: '페리아의 문장 1팀 42화: 태초의 서식처',
       },
       {
+        index: '2025050301',
+        name: '페리아의 문장 1팀 43화: 태초의 서식처',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
