@@ -1256,6 +1256,19 @@ export const Campaigns = [
     ],
   },
   {
+    title: 'RS',
+    label: '루비 사파이어',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2025050502',
+        name: '루비보다 더 밝은 1',
+      },
+    ],
+  },
+  {
     title: 'PER',
     label: '페리아의 문장',
     platform: 'ccfolia',
@@ -1474,6 +1487,10 @@ export const Campaigns = [
       {
         index: '2025050301',
         name: '페리아의 문장 1팀 43화: 태초의 서식처',
+      },
+      {
+        index: '2025050501',
+        name: '페리아의 문장 1팀 44화: 태초의 서식처',
       },
       {
         index: '2024060201',
