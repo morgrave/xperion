@@ -1707,6 +1707,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 43화: 헌신자의 매장터',
         video: 'https://www.youtube.com/embed/yjyHANOnJrA',
       },
+      {
+        index: '2025050901',
+        name: '페리아의 문장 2팀 44화: 헌신자의 매장터',
+      },
     ],
   },
   {
