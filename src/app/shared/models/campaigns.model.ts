@@ -1266,6 +1266,10 @@ export const Campaigns = [
         index: '2025050502',
         name: '루비보다 더 밝은 1',
       },
+      {
+        index: '2025051101',
+        name: '사파이어보다 더 아름다운 1',
+      },
     ],
   },
   {
@@ -1710,6 +1714,7 @@ export const Campaigns = [
       {
         index: '2025050901',
         name: '페리아의 문장 2팀 44화: 헌신자의 매장터',
+        video: 'https://www.youtube.com/embed/aw8Akrkffk4',
       },
     ],
   },
