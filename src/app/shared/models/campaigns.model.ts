@@ -1728,6 +1728,7 @@ export const Campaigns = [
       {
         index: '2025051301',
         name: '테스트 세션',
+        video: 'https://www.youtube.com/embed/nsI8rp1IS-k',
       },
     ],
   },
