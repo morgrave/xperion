@@ -1719,6 +1719,19 @@ export const Campaigns = [
     ],
   },
   {
+    title: 'EXP',
+    label: 'Explorer of X-Perion',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2025051301',
+        name: '1화',
+      },
+    ],
+  },
+  {
     title: 'DSI',
     label: '무인도',
     platform: 'ccfolia',
