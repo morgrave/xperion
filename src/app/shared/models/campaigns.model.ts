@@ -1727,7 +1727,7 @@ export const Campaigns = [
     logs: [
       {
         index: '2025051301',
-        name: '1화',
+        name: '테스트 세션',
       },
     ],
   },
