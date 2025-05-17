@@ -1487,14 +1487,21 @@ export const Campaigns = [
       {
         index: '2025042601',
         name: '페리아의 문장 1팀 42화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/qgEm3DLwE6A',
       },
       {
         index: '2025050301',
         name: '페리아의 문장 1팀 43화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/qA3OBf8FHIA',
       },
       {
         index: '2025050501',
         name: '페리아의 문장 1팀 44화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/IWz7HFdzIa4',
+      },
+      {
+        index: '2025051701',
+        name: '페리아의 문장 1팀 45화: 태초의 서식처',
       },
       {
         index: '2024060201',
@@ -1715,6 +1722,11 @@ export const Campaigns = [
         index: '2025050901',
         name: '페리아의 문장 2팀 44화: 헌신자의 매장터',
         video: 'https://www.youtube.com/embed/aw8Akrkffk4',
+      },
+      {
+        index: '2025051601',
+        name: '페리아의 문장 2팀 44화: 헌신자의 매장터',
+        video: 'https://www.youtube.com/embed/w2067PHORDc',
       },
     ],
   },
