@@ -1274,10 +1274,12 @@ export const Campaigns = [
       {
         index: '2025051702',
         name: '루비보다 더 밝은 2',
+        video: 'https://www.youtube.com/embed/gUMXmpBdHmg',
       },
       {
         index: '2025051101',
         name: '사파이어보다 더 아름다운 1',
+        video: 'https://www.youtube.com/embed/EM4jo3sZp8g',
       },
     ],
   },
@@ -1748,8 +1750,13 @@ export const Campaigns = [
     logs: [
       {
         index: '2025051301',
-        name: '테스트 세션',
+        name: '1화',
         video: 'https://www.youtube.com/embed/nsI8rp1IS-k',
+      },
+      {
+        index: '2025052001',
+        name: '2화',
+        video: 'https://www.youtube.com/embed/zUGWgAX2qpY',
       },
     ],
   },
