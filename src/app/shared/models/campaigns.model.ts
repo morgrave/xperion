@@ -1277,6 +1277,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/gUMXmpBdHmg',
       },
       {
+        index: '2025052401',
+        name: '루비보다 더 밝은 3',
+      },
+      {
         index: '2025051101',
         name: '사파이어보다 더 아름다운 1',
         video: 'https://www.youtube.com/embed/EM4jo3sZp8g',
