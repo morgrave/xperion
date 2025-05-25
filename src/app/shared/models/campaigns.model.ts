@@ -600,6 +600,11 @@ export const Campaigns = [
         name: '27화',
         video: 'https://www.youtube.com/embed/18Gy07z7oYQ',
       },
+      {
+        index: '28',
+        name: '28화',
+        video: 'https://www.youtube.com/embed/NBdiS8CHrIY',
+      },
     ],
   },
   {
@@ -1284,6 +1289,10 @@ export const Campaigns = [
         index: '2025051101',
         name: '사파이어보다 더 아름다운 1',
         video: 'https://www.youtube.com/embed/EM4jo3sZp8g',
+      },
+      {
+        index: '2025052501',
+        name: '사파이어보다 더 아름다운 2',
       },
     ],
   },
