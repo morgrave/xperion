@@ -1749,12 +1749,18 @@ export const Campaigns = [
       },
       {
         index: '2025051601',
-        name: '페리아의 문장 2팀 45화: 헌신자의 매장터',
+        name: '페리아의 문장 2팀 45화: 신앙에 대하여',
         video: 'https://www.youtube.com/embed/w2067PHORDc',
       },
       {
         index: '2025052301',
-        name: '페리아의 문장 2팀 46화: 헌신자의 매장터',
+        name: '페리아의 문장 2팀 46화: 신앙에 대하여',
+        video: 'https://www.youtube.com/embed/duOfMW25AJY',
+      },
+      {
+        index: '2025053001',
+        name: '페리아의 문장 2팀 47화: 신앙에 대하여',
+        video: 'https://www.youtube.com/embed/LgQWVR4tnyQ',
       },
     ],
   },
