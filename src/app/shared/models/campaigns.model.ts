@@ -1780,6 +1780,11 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 47화: 신앙에 대하여',
         video: 'https://www.youtube.com/embed/LgQWVR4tnyQ',
       },
+      {
+        index: '2025060601',
+        name: '페리아의 문장 2팀 48화',
+        video: 'https://www.youtube.com/embed/4tp7WX9HnNE',
+      },
     ],
   },
   {
