@@ -1544,6 +1544,11 @@ export const Campaigns = [
       {
         index: '2025053101',
         name: '페리아의 문장 1팀 46화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/Jjb02mqDAQU',
+      },
+      {
+        index: '2025060701',
+        name: '페리아의 문장 1팀 47화: 태초의 서식처',
       },
       {
         index: '2024060201',
