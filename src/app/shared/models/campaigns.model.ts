@@ -615,6 +615,10 @@ export const Campaigns = [
         name: '30화',
         video: 'https://www.youtube.com/embed/lCxzeGWeUdI',
       },
+      {
+        index: '31',
+        name: '31화',
+      },
     ],
   },
   {
@@ -1304,6 +1308,10 @@ export const Campaigns = [
         name: '루비보다 더 밝은 5',
       },
       {
+        index: '2025061402',
+        name: '루비보다 더 밝은 6',
+      },
+      {
         index: '2025051101',
         name: '사파이어보다 더 아름다운 1',
         video: 'https://www.youtube.com/embed/EM4jo3sZp8g',
@@ -1311,14 +1319,22 @@ export const Campaigns = [
       {
         index: '2025052501',
         name: '사파이어보다 더 아름다운 2',
+        video: 'https://www.youtube.com/embed/D7F-1iVwhLA',
       },
       {
         index: '2025060101',
         name: '사파이어보다 더 아름다운 3',
+        video: 'https://www.youtube.com/embed/_hBdM5665CQ',
       },
       {
         index: '2025060801',
         name: '사파이어보다 더 아름다운 4',
+        video: 'https://www.youtube.com/embed/NDXfu55jQ_w',
+      },
+      {
+        index: '2025061502',
+        name: '사파이어보다 더 아름다운 5',
+        video: 'https://www.youtube.com/embed/nueZTKjJTQQ',
       },
     ],
   },
@@ -1809,7 +1825,7 @@ export const Campaigns = [
       },
       {
         index: '2025061301',
-        name: '페리아의 문장 2팀 48화: 울토의 여정',
+        name: '페리아의 문장 2팀 49화: 울토의 여정',
         video: 'https://www.youtube.com/embed/sboxV59ZcBw',
       },
     ],
