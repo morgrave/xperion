@@ -1578,10 +1578,15 @@ export const Campaigns = [
       {
         index: '2025060701',
         name: '페리아의 문장 1팀 47화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/7o0GrnXemxU',
       },
       {
         index: '2025061401',
         name: '페리아의 문장 1팀 48화: 태초의 서식처',
+      },
+      {
+        index: '2025062101',
+        name: '페리아의 문장 1팀 49화: 태초의 서식처',
       },
       {
         index: '2024060201',
@@ -1820,17 +1825,18 @@ export const Campaigns = [
       },
       {
         index: '2025060601',
-        name: '페리아의 문장 2팀 48화: 울토의 여정',
+        name: '페리아의 문장 2팀 48화: 복수에 대하여',
         video: 'https://www.youtube.com/embed/4tp7WX9HnNE',
       },
       {
         index: '2025061301',
-        name: '페리아의 문장 2팀 49화: 울토의 여정',
+        name: '페리아의 문장 2팀 49화: 복수에 대하여',
         video: 'https://www.youtube.com/embed/sboxV59ZcBw',
       },
       {
         index: '2025062001',
-        name: '페리아의 문장 2팀 50화: 울토의 여정',
+        name: '페리아의 문장 2팀 50화: 복수에 대하여',
+        video: 'https://www.youtube.com/embed/SqV9ZN5EmqQ',
       },
     ],
   },
