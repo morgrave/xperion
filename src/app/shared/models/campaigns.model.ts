@@ -1323,7 +1323,7 @@ export const Campaigns = [
       },
       {
         index: '2025062802',
-        name: '루비보다 더 밝은 7',
+        name: '루비보다 더 밝은 8',
       },
       {
         index: '2025051101',
