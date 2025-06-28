@@ -618,6 +618,7 @@ export const Campaigns = [
       {
         index: '31',
         name: '31화',
+        video: 'https://www.youtube.com/embed/dROQtwWmGeU',
       },
       {
         index: '32',
@@ -1321,6 +1322,10 @@ export const Campaigns = [
         name: '루비보다 더 밝은 7',
       },
       {
+        index: '2025062802',
+        name: '루비보다 더 밝은 7',
+      },
+      {
         index: '2025051101',
         name: '사파이어보다 더 아름다운 1',
         video: 'https://www.youtube.com/embed/EM4jo3sZp8g',
@@ -1596,10 +1601,17 @@ export const Campaigns = [
       {
         index: '2025061401',
         name: '페리아의 문장 1팀 48화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/gARZkedLD8o',
       },
       {
         index: '2025062101',
         name: '페리아의 문장 1팀 49화: 태초의 서식처',
+        video: 'https://www.youtube.com/embed/SZRxpZCkxGw',
+      },
+      {
+        index: '2025062801',
+        name: '페리아의 문장 1팀 50화: 추억을 잃은 자',
+        video: 'https://www.youtube.com/embed/--FAYW4Yp-k',
       },
       {
         index: '2024060201',
@@ -1850,6 +1862,11 @@ export const Campaigns = [
         index: '2025062001',
         name: '페리아의 문장 2팀 50화: 복수에 대하여',
         video: 'https://www.youtube.com/embed/SqV9ZN5EmqQ',
+      },
+      {
+        index: '2025062701',
+        name: '페리아의 문장 2팀 51화: 헌신자의 매장터',
+        video: 'https://www.youtube.com/embed/ehU8lVAwT4k',
       },
     ],
   },
