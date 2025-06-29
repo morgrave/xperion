@@ -625,6 +625,11 @@ export const Campaigns = [
         name: '32화',
         video: 'https://www.youtube.com/embed/yfsc3jrtuCo',
       },
+      {
+        index: '33',
+        name: '33화',
+        video: 'https://www.youtube.com/embed/G5TBs1CT-OA',
+      },
     ],
   },
   {
@@ -1353,6 +1358,10 @@ export const Campaigns = [
       {
         index: '2025062201',
         name: '사파이어보다 더 아름다운 6',
+      },
+      {
+        index: '2025062901',
+        name: '사파이어보다 더 아름다운 7',
       },
     ],
   },
