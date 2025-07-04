@@ -1888,17 +1888,21 @@ export const Campaigns = [
     logs: [
       {
         index: '2025051301',
-        name: '1화',
+        name: '포켓몬 합격단 1화',
         video: 'https://www.youtube.com/embed/nsI8rp1IS-k',
       },
       {
         index: '2025052001',
-        name: '2화',
+        name: '포켓몬 합격단 2화',
         video: 'https://www.youtube.com/embed/zUGWgAX2qpY',
       },
       {
         index: '2025060301',
-        name: '3화',
+        name: '포켓몬 합격단 3화',
+      },
+      {
+        index: '2025070301',
+        name: '엑스페리온의 도둑들 1화',
       },
     ],
   },
