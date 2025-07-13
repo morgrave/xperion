@@ -1886,6 +1886,11 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 51화: 헌신자의 매장터',
         video: 'https://www.youtube.com/embed/ehU8lVAwT4k',
       },
+      {
+        index: '2025071101',
+        name: '페리아의 문장 2팀 52화: 헌신자의 매장터',
+        video: 'https://www.youtube.com/embed/KTiPy5L12Kc',
+      },
     ],
   },
   {
