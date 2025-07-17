@@ -1921,6 +1921,17 @@ export const Campaigns = [
       {
         index: '2025070301',
         name: '엑스페리온의 도둑들 1화',
+        video: 'https://www.youtube.com/embed/3_TFlkmk1_I',
+      },
+      {
+        index: '2025071001',
+        name: '엑스페리온의 도둑들 2화',
+        video: 'https://www.youtube.com/embed/ze1pyhWWxZ8',
+      },
+      {
+        index: '2025071701',
+        name: '엑스페리온의 도둑들 3화',
+        video: 'https://www.youtube.com/embed/bo5lPhv4qhk',
       },
     ],
   },
