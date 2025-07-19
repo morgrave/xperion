@@ -1632,6 +1632,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/--FAYW4Yp-k',
       },
       {
+        index: '2025071901',
+        name: '페리아의 문장 1팀 51화: 추억을 잃은 자',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
