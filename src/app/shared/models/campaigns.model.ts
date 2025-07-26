@@ -1643,6 +1643,11 @@ export const Campaigns = [
       {
         index: '2025071901',
         name: '페리아의 문장 1팀 51화: 추억을 잃은 자',
+        video: 'https://www.youtube.com/embed/yxZAEpsE37I',
+      },
+      {
+        index: '2025072601',
+        name: '페리아의 문장 1팀 52화: 추억을 잃은 자',
       },
       {
         index: '2024060201',
@@ -1950,6 +1955,11 @@ export const Campaigns = [
         index: '2025071701',
         name: '엑스페리온의 도둑들 3화',
         video: 'https://www.youtube.com/embed/bo5lPhv4qhk',
+      },
+      {
+        index: '2025072401',
+        name: '엑스페리온의 도둑들 4화',
+        video: 'https://www.youtube.com/embed/l_N-Ye1Zolk',
       },
     ],
   },
