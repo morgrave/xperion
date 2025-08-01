@@ -1919,6 +1919,11 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 53화: 헌신자의 매장터',
         video: 'https://www.youtube.com/embed/MHabhTxWokA',
       },
+      {
+        index: '2025080101',
+        name: '페리아의 문장 2팀 54화: 가족에 대하여',
+        video: 'https://www.youtube.com/embed/OXXaHDkiC4o',
+      },
     ],
   },
   {
