@@ -1672,6 +1672,10 @@ export const Campaigns = [
         name: '페리아의 문장 1팀 53화: 추억을 잃은 자',
       },
       {
+        index: '2025080901',
+        name: '페리아의 문장 1팀 54화: 추억을 잃은 자',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
@@ -1940,6 +1944,10 @@ export const Campaigns = [
         index: '2025080101',
         name: '페리아의 문장 2팀 54화: 가족에 대하여',
         video: 'https://www.youtube.com/embed/OXXaHDkiC4o',
+      },
+      {
+        index: '2025080801',
+        name: '페리아의 문장 2팀 55화: 막간',
       },
     ],
   },
