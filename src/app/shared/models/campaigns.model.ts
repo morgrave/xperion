@@ -650,6 +650,11 @@ export const Campaigns = [
         name: '37화',
         video: 'https://www.youtube.com/embed/XDhLeLeR15k',
       },
+      {
+        index: '38',
+        name: '38화',
+        video: 'https://www.youtube.com/embed/afNFmGtHVIg',
+      },
     ],
   },
   {
@@ -1359,6 +1364,10 @@ export const Campaigns = [
         name: '루비보다 더 밝은 10',
       },
       {
+        index: '2025080902',
+        name: '루비보다 더 밝은 11',
+      },
+      {
         index: '2025051101',
         name: '사파이어보다 더 아름다운 1',
         video: 'https://www.youtube.com/embed/EM4jo3sZp8g',
@@ -1398,6 +1407,10 @@ export const Campaigns = [
       {
         index: '2025080301',
         name: '사파이어보다 더 아름다운 9',
+      },
+      {
+        index: '2025081001',
+        name: '사파이어보다 더 아름다운 10',
       },
     ],
   },
