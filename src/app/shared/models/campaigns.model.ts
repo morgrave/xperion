@@ -1679,14 +1679,21 @@ export const Campaigns = [
       {
         index: '2025072601',
         name: '페리아의 문장 1팀 52화: 추억을 잃은 자',
+        video: 'https://www.youtube.com/embed/aJb2HhBs6rQ',
       },
       {
         index: '2025080201',
         name: '페리아의 문장 1팀 53화: 추억을 잃은 자',
+        video: 'https://www.youtube.com/embed/yZov9TOmuw8',
       },
       {
         index: '2025080901',
         name: '페리아의 문장 1팀 54화: 추억을 잃은 자',
+        video: 'https://www.youtube.com/embed/gr5vUolPiFE',
+      },
+      {
+        index: '2025081601',
+        name: '페리아의 문장 1팀 55화: 폭풍전야',
       },
       {
         index: '2024060201',
