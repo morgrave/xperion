@@ -884,6 +884,10 @@ export const Campaigns = [
         name: '안녕, 쥐식기들 5',
         video: 'https://www.youtube.com/embed/-t0kZPUmrF8',
       },
+      {
+        index: '2025090101',
+        name: '사라진 연인을 찾아서 1',
+      },
     ],
   },
   {
