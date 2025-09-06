@@ -1735,6 +1735,10 @@ export const Campaigns = [
         name: '페리아의 문장 1팀 56화: 도전의 섬',
       },
       {
+        index: '2025090601',
+        name: '페리아의 문장 1팀 56화: 도전의 섬',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
@@ -2015,6 +2019,10 @@ export const Campaigns = [
       {
         index: '2025082901',
         name: '페리아의 문장 2팀 57화: 가족에 대하여',
+      },
+      {
+        index: '2025090501',
+        name: '페리아의 문장 2팀 58화: 가족에 대하여',
       },
     ],
   },
