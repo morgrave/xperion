@@ -2024,18 +2024,27 @@ export const Campaigns = [
       {
         index: '2025080801',
         name: '페리아의 문장 2팀 55화: 막간',
+        video: 'https://www.youtube.com/embed/LCTTJrr-JTw',
       },
       {
         index: '2025082201',
         name: '페리아의 문장 2팀 56화: 가족에 대하여',
+        video: 'https://www.youtube.com/embed/fPTMNwcQs2c',
       },
       {
         index: '2025082901',
         name: '페리아의 문장 2팀 57화: 가족에 대하여',
+        video: 'https://www.youtube.com/embed/KZEE7zc_c3c',
       },
       {
         index: '2025090501',
         name: '페리아의 문장 2팀 58화: 가족에 대하여',
+        video: 'https://www.youtube.com/embed/1p0lBS6tRHk',
+      },
+      {
+        index: '2025091101',
+        name: '페리아의 문장 2팀 59화: 가족에 대하여',
+        video: 'https://www.youtube.com/embed/QT5CvcIPPgM',
       },
     ],
   },
