@@ -2067,6 +2067,11 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 59화: 가족에 대하여',
         video: 'https://www.youtube.com/embed/QT5CvcIPPgM',
       },
+      {
+        index: '2025091801',
+        name: '페리아의 문장 2팀 60화: 폭풍전야',
+        video: 'https://www.youtube.com/embed/Rh0bq7V6usI',
+      },
     ],
   },
   {
