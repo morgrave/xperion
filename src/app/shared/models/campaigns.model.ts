@@ -1781,6 +1781,10 @@ export const Campaigns = [
         name: '페리아의 문장 1팀 58화: 문장의 환영',
       },
       {
+        index: '2025092701',
+        name: '페리아의 문장 1팀 59화: 문장의 환영',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
@@ -2079,6 +2083,11 @@ export const Campaigns = [
         index: '2025091801',
         name: '페리아의 문장 2팀 60화: 폭풍전야',
         video: 'https://www.youtube.com/embed/Rh0bq7V6usI',
+      },
+      {
+        index: '2025092601',
+        name: '페리아의 문장 2팀 61화: 도전의 섬',
+        video: 'https://www.youtube.com/embed/kdBMY7xBvGE',
       },
     ],
   },
