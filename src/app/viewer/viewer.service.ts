@@ -128,7 +128,7 @@ export class ViewerService {
                 `id`
               ) +
                 `<style>${
-                  campaign.platform === 'FVTT' ? this.fvttscss : this.scss
+                  (campaign.platform === 'FVTT' || this.curPlatform === 'FVTT') ? this.fvttscss : this.scss
                 }</style>`
             );
           } else {
@@ -145,7 +145,7 @@ export class ViewerService {
             document.body.removeChild(t);'>복사</button>`
               ) +
                 `<style>${
-                  campaign.platform === 'FVTT' ? this.fvttscss : this.scss
+                  (campaign.platform === 'FVTT' || this.curPlatform === 'FVTT') ? this.fvttscss : this.scss
                 }</style>`
             );
           }
