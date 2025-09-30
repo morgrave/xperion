@@ -26,6 +26,7 @@ export class ViewerService {
   curVideo = ``;
   curImages: any[] = [];
   curInterfaces: any[] = [];
+  curPlatform = ``;
   assetSrc = environment.production
     ? `https://raw.githubusercontent.com/morgrave/bookshelf/main/src/campaigns`
     : `${this.baseHref}campaigns`;
@@ -43,6 +44,7 @@ export class ViewerService {
     this.curVideo = log.video ? log.video : ``;
     this.curImages = log.images ? log.images : [];
     this.curInterfaces = log.interfaces ? log.interfaces : [];
+    this.curPlatform = log.platform ? log.platform : ``;
     if (this.curImages.length) {
       this.loadImage(0);
     }
@@ -82,7 +84,7 @@ export class ViewerService {
       .pipe(
         map((res) => {
           let log = res;
-          if (campaign.platform === 'FVTT') {
+          if (campaign.platform === 'FVTT' || this.curPlatform === 'FVTT') {
             const regexp = new RegExp(
               `<h4 class="message-sender([^<]*)chat-portrait-text-size-name-dnd5e"([^<]*)>`,
               'gi'

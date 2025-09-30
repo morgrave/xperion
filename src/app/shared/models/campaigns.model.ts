@@ -14,6 +14,7 @@ export interface NPC {
 export interface Log {
   index: string;
   name: string;
+  platform?: string;
   images?: Image[];
   video?: string;
   interfaces?: Image[];
@@ -902,26 +903,31 @@ export const Campaigns = [
       {
         index: '2025090101',
         name: '사라진 연인을 찾아서 1',
+        platform: 'FVTT',
         video: 'https://www.youtube.com/embed/hcUSzt4qkZw',
       },
       {
         index: '2025090901',
         name: '사라진 연인을 찾아서 2',
+        platform: 'FVTT',
         video: 'https://www.youtube.com/embed/Ne9QcMEKgEM',
       },
       {
         index: '2025091501',
         name: '사라진 연인을 찾아서 3',
+        platform: 'FVTT',
         video: 'https://www.youtube.com/embed/_m_BfFO5Hxk',
       },
       {
         index: '2025092201',
         name: '사라진 연인을 찾아서 4',
+        platform: 'FVTT',
         video: 'https://www.youtube.com/embed/ppr4Gv1C-Ck',
       },
       {
         index: '2025092901',
         name: '사라진 연인을 찾아서 5',
+        platform: 'FVTT',
         video: 'https://www.youtube.com/embed/EnPbazZygr4',
       },
     ],
