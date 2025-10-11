@@ -1824,7 +1824,11 @@ export const Campaigns = [
       },
       {
         index: '2025100801',
-        name: '페리아의 문장 1팀 59화: 문장의 환영',
+        name: '페리아의 문장 1팀 60화: 문장의 환영',
+      },
+      {
+        index: '2025101101',
+        name: '페리아의 문장 1팀 61화: 문장의 환영',
       },
       {
         index: '2024060201',
@@ -2130,6 +2134,10 @@ export const Campaigns = [
         index: '2025092601',
         name: '페리아의 문장 2팀 61화: 도전의 섬',
         video: 'https://www.youtube.com/embed/kdBMY7xBvGE',
+      },
+      {
+        index: '2025101001',
+        name: '페리아의 문장 2팀 62화: 도전의 섬',
       },
     ],
   },
