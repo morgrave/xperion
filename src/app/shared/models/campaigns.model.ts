@@ -2152,6 +2152,12 @@ export const Campaigns = [
       {
         index: '2025101001',
         name: '페리아의 문장 2팀 62화: 도전의 섬',
+        video: 'https://www.youtube.com/embed/UBNhBE7_VX4',
+      },
+      {
+        index: '2025102401',
+        name: '페리아의 문장 2팀 63화: 문장의 환영',
+        video: 'https://www.youtube.com/embed/7Cqgqe4T5gk',
       },
     ],
   },
