@@ -2164,6 +2164,11 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 63화: 문장의 환영',
         video: 'https://www.youtube.com/embed/7Cqgqe4T5gk',
       },
+      {
+        index: '2025103101',
+        name: '페리아의 문장 2팀 64화: 문장의 환영',
+        video: 'https://www.youtube.com/embed/t3a7jHsejyI',
+      },
     ],
   },
   {
