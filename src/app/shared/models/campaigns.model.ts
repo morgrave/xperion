@@ -706,6 +706,11 @@ export const Campaigns = [
         name: '48화',
         video: 'https://www.youtube.com/embed/Fm7GuA9SCeY',
       },
+      {
+        index: '49',
+        name: '49화',
+        video: 'https://www.youtube.com/embed/gaQdttfF-3k',
+      },
     ],
   },
   {
@@ -1539,6 +1544,10 @@ export const Campaigns = [
       },
       {
         index: '2025100501',
+        name: '사파이어보다 더 아름다운 14',
+      },
+      {
+        index: '2025110201',
         name: '사파이어보다 더 아름다운 14',
       },
     ],
