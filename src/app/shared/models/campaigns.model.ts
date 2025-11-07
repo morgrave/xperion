@@ -1548,7 +1548,7 @@ export const Campaigns = [
       },
       {
         index: '2025110201',
-        name: '사파이어보다 더 아름다운 14',
+        name: '사파이어보다 더 아름다운 15',
       },
     ],
   },
@@ -2185,6 +2185,10 @@ export const Campaigns = [
         index: '2025103101',
         name: '페리아의 문장 2팀 64화: 문장의 환영',
         video: 'https://www.youtube.com/embed/t3a7jHsejyI',
+      },
+      {
+        index: '2025110701',
+        name: '페리아의 문장 2팀 65화: 문장의 환영',
       },
     ],
   },
