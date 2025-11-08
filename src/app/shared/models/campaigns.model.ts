@@ -1867,6 +1867,10 @@ export const Campaigns = [
         name: '페리아의 문장 1팀 62화: 우상을 잃은 자',
       },
       {
+        index: '2025110801',
+        name: '페리아의 문장 1팀 63화: 우상을 잃은 자',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
@@ -2189,6 +2193,7 @@ export const Campaigns = [
       {
         index: '2025110701',
         name: '페리아의 문장 2팀 65화: 문장의 환영',
+        video: 'https://www.youtube.com/embed/vgv1NsiCtPs',
       },
     ],
   },
