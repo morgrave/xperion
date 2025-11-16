@@ -960,6 +960,11 @@ export const Campaigns = [
         platform: 'FVTT',
         video: 'https://www.youtube.com/embed/EnPbazZygr4',
       },
+      {
+        index: '2025111701',
+        name: '설원의 인도자 1',
+        video: 'https://www.youtube.com/embed/EReJXK70eW0',
+      },
     ],
   },
   {
