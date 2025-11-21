@@ -2222,6 +2222,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 66화: 문장의 환영',
         video: 'https://www.youtube.com/embed/NJ_6me6S07o',
       },
+      {
+        index: '2025112101',
+        name: '페리아의 문장 2팀 67화: 존재에 대하여',
+      },
     ],
   },
   {
