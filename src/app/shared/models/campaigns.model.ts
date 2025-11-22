@@ -1504,7 +1504,7 @@ export const Campaigns = [
         name: '루비보다 더 밝은 21',
       },
       {
-        index: '2025112202',
+        index: '2025112201',
         name: '루비보다 더 밝은 22',
       },
       {
