@@ -970,6 +970,10 @@ export const Campaigns = [
         name: '설원의 인도자 1',
         video: 'https://www.youtube.com/embed/EReJXK70eW0',
       },
+      {
+        index: '2025112401',
+        name: '설원의 인도자 2',
+      },
     ],
   },
   {
