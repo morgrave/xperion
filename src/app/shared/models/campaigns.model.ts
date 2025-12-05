@@ -1901,26 +1901,32 @@ export const Campaigns = [
       {
         index: '2025100801',
         name: '페리아의 문장 1팀 60화: 문장의 환영',
+        video: 'https://www.youtube.com/embed/yFvt36b4DTU',
       },
       {
         index: '2025101101',
         name: '페리아의 문장 1팀 61화: 문장의 환영',
+        video: 'https://www.youtube.com/embed/knc2IDQvmeU',
       },
       {
         index: '2025110101',
         name: '페리아의 문장 1팀 62화: 우상을 잃은 자',
+        video: 'https://www.youtube.com/embed/45nvkaj1Af8',
       },
       {
         index: '2025110801',
         name: '페리아의 문장 1팀 63화: 우상을 잃은 자',
+        video: 'https://www.youtube.com/embed/gKVm-zHtuVs',
       },
       {
         index: '2025111501',
         name: '페리아의 문장 1팀 64화: 우상을 잃은 자',
+        video: 'https://www.youtube.com/embed/O58tUN6qPAU',
       },
       {
         index: '2025112901',
         name: '페리아의 문장 1팀 65화: 우상을 잃은 자',
+        video: 'https://www.youtube.com/embed/a8wEUR2Mjsc',
       },
       {
         index: '2024060201',
@@ -2255,14 +2261,17 @@ export const Campaigns = [
       {
         index: '2025112101',
         name: '페리아의 문장 2팀 67화: 존재에 대하여',
+        video: 'https://www.youtube.com/embed/Ny_XPjmbFyA',
       },
       {
         index: '2025112801',
         name: '페리아의 문장 2팀 68화: 존재에 대하여',
+        video: 'https://www.youtube.com/embed/tPeLR0Ckkgc',
       },
       {
         index: '2025120501',
         name: '페리아의 문장 2팀 69화: 존재에 대하여',
+        video: 'https://www.youtube.com/embed/7N43AEfLu0w',
       },
     ],
   },
