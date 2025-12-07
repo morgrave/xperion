@@ -2344,5 +2344,18 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/pCU3y8ppxn8',
       },
     ]
+  },
+  {
+    title: 'SIT',
+    label: '시트론 섬의 개척자들',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2025120701',
+        name: '시트론 섬의 개척자들 1팀 0화',
+      },
+    ]
   }
 ];
