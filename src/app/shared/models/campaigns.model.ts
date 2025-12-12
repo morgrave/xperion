@@ -2282,6 +2282,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 69화: 존재에 대하여',
         video: 'https://www.youtube.com/embed/7N43AEfLu0w',
       },
+      {
+        index: '2025121201',
+        name: '페리아의 문장 2팀 70화: 크림슨 크리스탈',
+      },
     ],
   },
   {
