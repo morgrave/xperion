@@ -998,6 +998,10 @@ export const Campaigns = [
         index: '2025112501',
         name: '설원의 인도자 3',
       },
+      {
+        index: '2025122901',
+        name: '조여오는 어둠 1',
+      },
     ],
   },
   {
