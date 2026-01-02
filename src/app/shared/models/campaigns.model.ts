@@ -2370,6 +2370,7 @@ export const Campaigns = [
       {
         index: '2025122501',
         name: '크리스마스의 악몽',
+        video: 'https://www.youtube.com/embed/IrSCLwa1Jh8',
       },
     ],
   },
