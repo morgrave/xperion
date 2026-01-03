@@ -1001,6 +1001,12 @@ export const Campaigns = [
       {
         index: '2025122901',
         name: '조여오는 어둠 1',
+        video: 'https://www.youtube.com/embed/Y4ENZaUgDxE',
+      },
+      {
+        index: '2026010303',
+        name: '조여오는 어둠 2',
+        video: 'https://www.youtube.com/embed/11AIgYWfrow',
       },
     ],
   },
