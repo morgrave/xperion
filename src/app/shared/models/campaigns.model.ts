@@ -2354,22 +2354,27 @@ export const Campaigns = [
       {
         index: '2025121201',
         name: '페리아의 문장 2팀 70화: 크림슨 크리스탈',
+        video: 'https://www.youtube.com/embed/jLgHEYq_oHg',
       },
       {
         index: '2025121901',
         name: '페리아의 문장 2팀 71화: 크림슨 크리스탈',
+        video: 'https://www.youtube.com/embed/huuzfhp6Y6U',
       },
       {
         index: '2026010201',
         name: '페리아의 문장 2팀 72화: 크림슨 크리스탈',
+        video: 'https://www.youtube.com/embed/WhTKNp2qXzo',
       },
       {
         index: '2026011601',
         name: '페리아의 문장 2팀 73화: 신앙에 대하여',
+        video: 'https://www.youtube.com/embed/SSFVokqwVOE',
       },
       {
         index: '2026012301',
         name: '페리아의 문장 2팀 74화: 신앙에 대하여',
+        video: 'https://www.youtube.com/embed/aS9gFFCTG4o',
       },
     ],
   },
