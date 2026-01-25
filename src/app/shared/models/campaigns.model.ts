@@ -756,6 +756,11 @@ export const Campaigns = [
         name: '58화',
         video: 'https://www.youtube.com/embed/eBuf3kK_Wyw',
       },
+      {
+        index: '59',
+        name: '59화',
+        video: 'https://www.youtube.com/embed/uZ0smxPM6zo',
+      },
     ],
   },
   {
@@ -1168,6 +1173,10 @@ export const Campaigns = [
         index: '2024081801',
         name: '아스트로 ~행성 탐사자들~ 3',
         video: 'https://www.youtube.com/embed/jLeVBNFUnIc',
+      },
+      {
+        index: '2026012501',
+        name: '아스트로 ~행성 탐사자들~ 4-1',
       },
       {
         index: '2023101901',
