@@ -2390,6 +2390,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 74화: 신앙에 대하여',
         video: 'https://www.youtube.com/embed/aS9gFFCTG4o',
       },
+      {
+        index: '2026013001',
+        name: '페리아의 문장 2팀 75화: 신앙에 대하여',
+      },
     ],
   },
   {
