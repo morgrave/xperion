@@ -1999,14 +1999,17 @@ export const Campaigns = [
       {
         index: '2025120601',
         name: '페리아의 문장 1팀 66화: 자유를 잃은 자',
+        video: 'https://www.youtube.com/embed/mLyFOA-mUuA',
       },
       {
         index: '2025121301',
         name: '페리아의 문장 1팀 67화: 자유를 잃은 자',
+        video: 'https://www.youtube.com/embed/GYV3Uljhe1A',
       },
       {
         index: '2025122701',
         name: '페리아의 문장 1팀 68화: 자유를 잃은 자',
+        video: 'https://www.youtube.com/embed/ehzcCKt4-p4',
       },
       {
         index: '2026010301',
@@ -2019,6 +2022,10 @@ export const Campaigns = [
       {
         index: '2026012401',
         name: '페리아의 문장 1팀 71화: 근원을 잃은 자',
+      },
+      {
+        index: '2026013101',
+        name: '페리아의 문장 1팀 72화: 근원을 잃은 자',
       },
       {
         index: '2024060201',
