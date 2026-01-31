@@ -1038,6 +1038,10 @@ export const Campaigns = [
         name: '조여오는 어둠 4',
         video: 'https://www.youtube.com/embed/bJXN0vp3lMI',
       },
+      {
+        index: '2026013103',
+        name: '조여오는 어둠 5',
+      },
     ],
   },
   {
@@ -1660,6 +1664,10 @@ export const Campaigns = [
       },
       {
         index: '2026010302',
+        name: '사파이어보다 더 아름다운 18',
+      },
+      {
+        index: '2026013102',
         name: '사파이어보다 더 아름다운 18',
       },
     ],
