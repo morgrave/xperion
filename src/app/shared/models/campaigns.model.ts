@@ -2413,6 +2413,12 @@ export const Campaigns = [
       {
         index: '2026013001',
         name: '페리아의 문장 2팀 75화: 신앙에 대하여',
+        video: 'https://www.youtube.com/embed/hM7kWdtBcTM',
+      },
+      {
+        index: '2026020601',
+        name: '페리아의 문장 2팀 76화: 가족에 대하여',
+        video: 'https://www.youtube.com/embed/NNojC41VCEc',
       },
     ],
   },
