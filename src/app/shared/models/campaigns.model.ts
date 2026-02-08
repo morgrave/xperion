@@ -1193,6 +1193,10 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/uChSLM6Px-E',
       },
       {
+        index: '2026020801',
+        name: '아스트로 ~행성 탐사자들~ 4-3',
+      },
+      {
         index: '2023101901',
         name: '아스트로 ~ 누군가의 히어로 1팀 1일차',
         video: 'https://www.youtube.com/embed/473PXRavHts',
