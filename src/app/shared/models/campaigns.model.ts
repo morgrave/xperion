@@ -2450,6 +2450,10 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 76화: 가족에 대하여',
         video: 'https://www.youtube.com/embed/NNojC41VCEc',
       },
+      {
+        index: '2026022001',
+        name: '페리아의 문장 2팀 77화: 가족에 대하여',
+      },
     ],
   },
   {
