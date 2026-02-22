@@ -1211,6 +1211,10 @@ export const Campaigns = [
         name: '아스트로 ~행성 탐사자들~ 4-4',
       },
       {
+        index: '2026022202',
+        name: '아스트로 ~행성 탐사자들~ 4-5',
+      },
+      {
         index: '2023101901',
         name: '아스트로 ~ 누군가의 히어로 1팀 1일차',
         video: 'https://www.youtube.com/embed/473PXRavHts',
@@ -2550,14 +2554,17 @@ export const Campaigns = [
       {
         index: '2025121302',
         name: '시트론 섬의 개척자들 2팀 0화',
+        video: 'https://www.youtube.com/embed/ApysQi9J888',
       },
       {
         index: '2026021401',
         name: '시트론 섬의 개척자들 2팀 1화',
+        video: 'https://www.youtube.com/embed/B7_W_jHAPmc',
       },
       {
         index: '2026022102',
         name: '시트론 섬의 개척자들 2팀 2화',
+        video: 'https://www.youtube.com/embed/u44TrSYBSL8',
       },
     ]
   }
