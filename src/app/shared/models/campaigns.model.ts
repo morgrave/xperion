@@ -1210,14 +1210,17 @@ export const Campaigns = [
       {
         index: '2026020801',
         name: '아스트로 ~행성 탐사자들~ 4-3',
+        video: 'https://www.youtube.com/embed/NVRI62c1k4I',
       },
       {
         index: '2026021502',
         name: '아스트로 ~행성 탐사자들~ 4-4',
+        video: 'https://www.youtube.com/embed/qojvWMxEvOo',
       },
       {
         index: '2026022202',
         name: '아스트로 ~행성 탐사자들~ 4-5',
+        video: 'https://www.youtube.com/embed/M2BagbYLXjc',
       },
       {
         index: '2023101901',
