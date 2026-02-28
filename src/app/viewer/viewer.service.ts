@@ -85,7 +85,7 @@ export class ViewerService {
         .get<string>(`${this.baseHref}assets/common.scss`, this.requestOptions)
         .pipe(
           map((res) => {
-            this.fvttscss = this.sanitizer.bypassSecurityTrustHtml(res);
+            this.roll20scss = this.sanitizer.bypassSecurityTrustHtml(res);
             return;
           }),
         )
