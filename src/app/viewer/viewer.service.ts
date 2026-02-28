@@ -17,6 +17,7 @@ export class ViewerService {
   };
   scss: SafeHtml = ``;
   fvttscss: SafeHtml = ``;
+  roll20scss: SafeHtml = ``;
   log: SafeHtml = ``;
   image: string = ``;
   interface: string = ``;
@@ -34,7 +35,7 @@ export class ViewerService {
   constructor(
     private locationStrategy: LocationStrategy,
     private http: HttpClient,
-    private sanitizer: DomSanitizer
+    private sanitizer: DomSanitizer,
   ) {}
 
   async loadHtml(campaign: Campaign, log: Log) {
@@ -53,12 +54,15 @@ export class ViewerService {
     }
     if (!this.scss) {
       await this.http
-        .get<string>(`${this.baseHref}assets/common.ccfolia.scss`, this.requestOptions)
+        .get<string>(
+          `${this.baseHref}assets/common.ccfolia.scss`,
+          this.requestOptions,
+        )
         .pipe(
           map((res) => {
             this.scss = this.sanitizer.bypassSecurityTrustHtml(res);
             return;
-          })
+          }),
         )
         .toPromise();
     }
@@ -66,20 +70,31 @@ export class ViewerService {
       await this.http
         .get<string>(
           `${this.baseHref}assets/common.fvtt.scss`,
-          this.requestOptions
+          this.requestOptions,
         )
         .pipe(
           map((res) => {
             this.fvttscss = this.sanitizer.bypassSecurityTrustHtml(res);
             return;
-          })
+          }),
+        )
+        .toPromise();
+    }
+    if (!this.roll20scss) {
+      await this.http
+        .get<string>(`${this.baseHref}assets/common.scss`, this.requestOptions)
+        .pipe(
+          map((res) => {
+            this.fvttscss = this.sanitizer.bypassSecurityTrustHtml(res);
+            return;
+          }),
         )
         .toPromise();
     }
     const html = await this.http
       .get<string>(
         `${this.assetSrc}/${campaign.title}/logs/${log.index}.html`,
-        this.requestOptions
+        this.requestOptions,
       )
       .pipe(
         map((res) => {
@@ -87,36 +102,38 @@ export class ViewerService {
           if (campaign.platform === 'FVTT' || this.curPlatform === 'FVTT') {
             const regexp = new RegExp(
               `<h4 class="message-sender([^<]*)chat-portrait-text-size-name-dnd5e"([^<]*)>`,
-              'gi'
+              'gi',
             );
-            log = log.replace(regexp, `<h4 class="message-sender chat-portrait-text-size-name">`);
+            log = log.replace(
+              regexp,
+              `<h4 class="message-sender chat-portrait-text-size-name">`,
+            );
             // log = log.replace(/src="/gi, `src="http://193.123.242.178/`);
           }
           log = campaign.npcs?.reduce((log, npc) => {
             if (campaign.platform === 'FVTT') {
               const regexp = new RegExp(
                 `(<img([^<]+)<h4 class="message-sender chat-portrait-text-size-name">${npc.name}</h4>)`,
-                'gi'
-              );
-              return log
-                .replace(
-                  regexp,
-                  `<img src="${this.baseHref}assets/images/${npc.avatar}" width="36" height="36" class="message-portrait" style="border: none"/><h4 class="message-sender chat-portrait-text-size-name">${npc.name}</h4>`
-                );
-            } else {
-              const regexp = new RegExp(
-                `<span class="by">${npc.name}:</span>*`,
-                'gi'
+                'gi',
               );
               return log.replace(
                 regexp,
-                `<div class="avatar" aria-hidden="true"><img src="${npc.avatar}"/></div><span class="by">${npc.name}:</span>`
+                `<img src="${this.baseHref}assets/images/${npc.avatar}" width="36" height="36" class="message-portrait" style="border: none"/><h4 class="message-sender chat-portrait-text-size-name">${npc.name}</h4>`,
+              );
+            } else {
+              const regexp = new RegExp(
+                `<span class="by">${npc.name}:</span>*`,
+                'gi',
+              );
+              return log.replace(
+                regexp,
+                `<div class="avatar" aria-hidden="true"><img src="${npc.avatar}"/></div><span class="by">${npc.name}:</span>`,
               );
             }
           }, log);
           const regexp = new RegExp(
             `<div style="position: absolute;([^<]*);">`,
-            'gi'
+            'gi',
           );
           log = log.replace(regexp, `<div>`);
           if (environment.production === true) {
@@ -125,11 +142,16 @@ export class ViewerService {
                 campaign.platform === 'FVTT'
                   ? /data-message-id/gi
                   : /data-messageid/gi,
-                `id`
+                `id`,
               ) +
                 `<style>${
-                  (campaign.platform === 'FVTT' || this.curPlatform === 'FVTT') ? this.fvttscss : this.scss
-                }</style>`
+                  campaign.platform === 'FVTT' || this.curPlatform === 'FVTT'
+                    ? this.fvttscss
+                    : campaign.platform === 'roll20' ||
+                        this.curPlatform === 'roll20'
+                      ? this.roll20scss
+                      : this.scss
+                }</style>`,
             );
           } else {
             this.log = this.sanitizer.bypassSecurityTrustHtml(
@@ -142,15 +164,20 @@ export class ViewerService {
             t.value = "$1";
             t.select();
             document.execCommand("copy");
-            document.body.removeChild(t);'>복사</button>`
+            document.body.removeChild(t);'>복사</button>`,
               ) +
                 `<style>${
-                  (campaign.platform === 'FVTT' || this.curPlatform === 'FVTT') ? this.fvttscss : this.scss
-                }</style>`
+                  campaign.platform === 'FVTT' || this.curPlatform === 'FVTT'
+                    ? this.fvttscss
+                    : campaign.platform === 'roll20' ||
+                        this.curPlatform === 'roll20'
+                      ? this.roll20scss
+                      : this.scss
+                }</style>`,
             );
           }
           return;
-        })
+        }),
       )
       .toPromise();
     return;
