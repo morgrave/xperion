@@ -2087,6 +2087,10 @@ export const Campaigns = [
         name: '페리아의 문장 1팀 74화: 근원을 잃은 자',
       },
       {
+        index: '2026022801',
+        name: '페리아의 문장 1팀 75화: 근원을 잃은 자',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
