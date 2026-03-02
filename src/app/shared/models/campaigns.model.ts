@@ -1071,6 +1071,11 @@ export const Campaigns = [
         name: '더 라비린스 1',
         platform: 'roll20',
       },
+      {
+        index: '2026030202',
+        name: '더 라비린스 2',
+        platform: 'roll20',
+      },
     ],
   },
   {
@@ -1235,6 +1240,7 @@ export const Campaigns = [
       {
         index: '2026030102',
         name: '아스트로 ~행성 탐사자들~ 4-6',
+        video: 'https://www.youtube.com/embed/7uZGOaJrRww',
       },
       {
         index: '2026030201',
