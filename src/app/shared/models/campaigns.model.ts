@@ -2617,6 +2617,14 @@ export const Campaigns = [
         name: '시트론 섬의 개척자들 1팀 3화',
       },
       {
+        index: '2026030801',
+        name: '시트론 섬의 개척자들 1팀 4화',
+      },
+      {
+        index: '2026031501',
+        name: '시트론 섬의 개척자들 1팀 5화',
+      },
+      {
         index: '2025121302',
         name: '시트론 섬의 개척자들 2팀 0화',
         video: 'https://www.youtube.com/embed/ApysQi9J888',
@@ -2635,6 +2643,16 @@ export const Campaigns = [
         index: '2026022802',
         name: '시트론 섬의 개척자들 2팀 3화',
         video: 'https://www.youtube.com/embed/PPe5GE2TM2g',
+      },
+      {
+        index: '2026030701',
+        name: '시트론 섬의 개척자들 2팀 4화',
+        video: 'https://www.youtube.com/embed/Fo6yGX-g3OI',
+      },
+      {
+        index: '2026031401',
+        name: '시트론 섬의 개척자들 2팀 5화',
+        video: 'https://www.youtube.com/embed/vCa-l3L8mPk',
       },
     ]
   }
