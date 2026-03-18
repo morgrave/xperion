@@ -1086,6 +1086,11 @@ export const Campaigns = [
         name: '더 라비린스 2',
         platform: 'roll20',
       },
+      {
+        index: '2026030901',
+        name: '더 라비린스 3',
+        platform: 'roll20',
+      },
     ],
   },
   {
