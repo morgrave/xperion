@@ -2659,6 +2659,11 @@ export const Campaigns = [
         name: '시트론 섬의 개척자들 2팀 5화',
         video: 'https://www.youtube.com/embed/vCa-l3L8mPk',
       },
+      {
+        index: '2026032101',
+        name: '시트론 섬의 개척자들 2팀 6화',
+        video: 'https://www.youtube.com/embed/Dza6i9lGaTc',
+      },
     ]
   }
 ];
