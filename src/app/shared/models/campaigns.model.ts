@@ -2543,6 +2543,11 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 79화: 페리아의 문장',
         video: 'https://www.youtube.com/embed/r5zdgEAHlg0',
       },
+      {
+        index: '2026032701',
+        name: '페리아의 문장 2팀 80화: 페리아의 문장',
+        video: 'https://www.youtube.com/embed/qQURsz1IwJQ',
+      },
     ],
   },
   {
