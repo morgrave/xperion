@@ -801,6 +801,11 @@ export const Campaigns = [
         name: '67화',
         video: 'https://www.youtube.com/embed/5KfyFMwWUFo',
       },
+      {
+        index: '68',
+        name: '68화',
+        video: 'https://www.youtube.com/embed/1uiUkdnqJB4',
+      },
     ],
   },
   {
@@ -2692,6 +2697,10 @@ export const Campaigns = [
       {
         index: '2026040501',
         name: '시트론 섬의 개척자들 1팀 8화',
+      },
+      {
+        index: '2026041201',
+        name: '시트론 섬의 개척자들 1팀 9화',
       },
       {
         index: '2025121302',
