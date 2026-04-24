@@ -2596,6 +2596,11 @@ export const Campaigns = [
         name: '페리아의 문장 2팀 83화: 페리아의 문장',
         video: 'https://www.youtube.com/embed/50aph5QU0Hk',
       },
+      {
+        index: '2026042401',
+        name: '페리아의 문장 2팀 84화: 에필로그',
+        video: 'https://www.youtube.com/embed/MMAR2wt_qwY',
+      },
     ],
   },
   {
