@@ -2819,6 +2819,11 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/OhyvKMCeTxQ',
       },
       {
+        index: '2026050902',
+        name: '시트론 섬의 개척자들 2팀 13화',
+        video: 'https://www.youtube.com/embed/48JWa_6mCeE',
+      },
+      {
         index: '2026040601',
         name: '시트론 섬 외전: 샤오 칸과 저주받은 룰북',
         video: 'https://www.youtube.com/embed/42dOk5BDx-I',
