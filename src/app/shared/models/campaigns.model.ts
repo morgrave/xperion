@@ -809,22 +809,22 @@ export const Campaigns = [
       {
         index: '69',
         name: '69화',
-        video: 'https://www.youtube.com/live/-jSNFFNkMc0',
+        video: 'https://www.youtube.com/embed/-jSNFFNkMc0',
       },
       {
         index: '70',
         name: '70화',
-        video: 'https://www.youtube.com/live/Z5bFpGaCGjw',
+        video: 'https://www.youtube.com/embed/Z5bFpGaCGjw',
       },
       {
         index: '71',
         name: '71화',
-        video: 'https://www.youtube.com/live/DpAvpoZp7FU',
+        video: 'https://www.youtube.com/embed/DpAvpoZp7FU',
       },
       {
         index: '72',
         name: '72화',
-        video: 'https://www.youtube.com/live/tgq7yNwXt-Q',
+        video: 'https://www.youtube.com/embed/tgq7yNwXt-Q',
       },
     ],
   },
