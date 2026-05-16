@@ -2839,6 +2839,7 @@ export const Campaigns = [
       {
         index: '2026051602',
         name: '시트론 섬의 개척자들 2팀 14화',
+        video: 'https://www.youtube.com/embed/LXAtsN504jA',
       },
       {
         index: '2026040601',
