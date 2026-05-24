@@ -831,6 +831,11 @@ export const Campaigns = [
         name: '73화',
         video: 'https://www.youtube.com/embed/NImmi4SGRLE',
       },
+      {
+        index: '74',
+        name: '74화',
+        video: 'https://www.youtube.com/embed/Pe3Dil9AU78',
+      },
     ],
   },
   {
