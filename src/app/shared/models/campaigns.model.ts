@@ -2263,6 +2263,10 @@ export const Campaigns = [
         name: '페리아의 문장 1팀 88화: 에필로그',
       },
       {
+        index: '2026062701',
+        name: '페리아의 문장 1팀 89화: 에필로그',
+      },
+      {
         index: '2024060201',
         name: '페리아의 문장 2팀 1화: 사원의 섬',
         video: 'https://www.youtube.com/embed/_C-Q4An3R14',
