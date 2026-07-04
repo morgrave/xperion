@@ -2930,5 +2930,18 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/42dOk5BDx-I',
       },
     ]
+  },
+  {
+    title: 'HNT',
+    label: '사냥의 연회',
+    platform: 'ccfolia',
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '2026070401',
+        name: '사냥의 연회 1화',
+      },
+    ]
   }
 ];
