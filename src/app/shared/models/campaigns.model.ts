@@ -2941,6 +2941,7 @@ export const Campaigns = [
       {
         index: '2026070401',
         name: '사냥의 연회 1화',
+        video: 'https://www.youtube.com/embed/tEXai8dY7OI',
       },
     ]
   }
