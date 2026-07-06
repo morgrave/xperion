@@ -2939,6 +2939,10 @@ export const Campaigns = [
         name: '시트론 섬 외전: 샤오 칸과 저주받은 룰북',
         video: 'https://www.youtube.com/embed/42dOk5BDx-I',
       },
+      {
+        index: '2026070501',
+        name: '시트론 섬의 탐색자들 0화',
+      },
     ]
   },
   {
