@@ -1176,6 +1176,11 @@ export const Campaigns = [
         name: '더 라비린스 4',
         platform: 'roll20',
       },
+      {
+        index: '2026072502',
+        name: '인디조아 탐험대와 중앙 사막의 성배 1',
+        video: 'https://www.youtube.com/embed/TR6hsp3i16g',
+      },
     ],
   },
   {
