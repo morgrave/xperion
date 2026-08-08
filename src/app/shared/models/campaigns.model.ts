@@ -2996,6 +2996,10 @@ export const Campaigns = [
         name: '사냥의 연회 4화',
         video: 'https://www.youtube.com/embed/dM9tTU4URYM',
       },
+      {
+        index: '2026080801',
+        name: '사냥의 연회 5화',
+      },
     ]
   }
 ];
