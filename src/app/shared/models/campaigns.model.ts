@@ -3017,6 +3017,7 @@ export const Campaigns = [
       {
         index: '2026080801',
         name: '사냥의 연회 5화',
+        video: 'https://www.youtube.com/embed/dYdkbbPu-SQ',
       },
       {
         index: '2026081501',
