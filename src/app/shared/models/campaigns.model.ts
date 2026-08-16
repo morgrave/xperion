@@ -1196,6 +1196,11 @@ export const Campaigns = [
         name: '인디조아 탐험대와 중앙 사막의 성배 2',
         video: 'https://www.youtube.com/embed/TtV5Bcyb2q8',
       },
+      {
+        index: '2026081502',
+        name: '인디조아 탐험대와 중앙 사막의 성배 3',
+        video: 'https://www.youtube.com/embed/TIN5P4GQn1E',
+      },
     ],
   },
   {
@@ -2976,6 +2981,10 @@ export const Campaigns = [
         index: '2026080901',
         name: '시트론 섬의 탐색자들 1화',
       },
+      {
+        index: '2026081601',
+        name: '시트론 섬의 탐색자들 2화',
+      },
     ]
   },
   {
@@ -3008,6 +3017,11 @@ export const Campaigns = [
       {
         index: '2026080801',
         name: '사냥의 연회 5화',
+      },
+      {
+        index: '2026081501',
+        name: '사냥의 연회 6화',
+        video: 'https://www.youtube.com/embed/twy0ow0bbbY',
       },
     ]
   }
