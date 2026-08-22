@@ -1205,6 +1205,11 @@ export const Campaigns = [
         name: '인디조아 탐험대와 중앙 사막의 성배 3',
         video: 'https://www.youtube.com/embed/TIN5P4GQn1E',
       },
+      {
+        index: '2026082201',
+        name: '인디조아 탐험대와 중앙 사막의 성배 4',
+        video: 'https://www.youtube.com/embed/PIKfwVDWbeg',
+      },
     ],
   },
   {
