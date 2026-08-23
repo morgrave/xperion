@@ -884,6 +884,11 @@ export const Campaigns = [
       {
         index: '84',
         name: '84화',
+        video: 'https://www.youtube.com/embed/rVWzNeeahuU',
+      },
+      {
+        index: '85',
+        name: '85화',
       },
     ],
   },
@@ -2993,6 +2998,10 @@ export const Campaigns = [
       {
         index: '2026081601',
         name: '시트론 섬의 탐색자들 2화',
+      },
+      {
+        index: '2026082301',
+        name: '시트론 섬의 탐색자들 3화',
       },
     ]
   },
