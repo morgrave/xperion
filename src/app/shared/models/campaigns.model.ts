@@ -889,6 +889,7 @@ export const Campaigns = [
       {
         index: '85',
         name: '85화',
+        video: 'https://www.youtube.com/embed/Lm7q7EN_zoU',
       },
     ],
   },
