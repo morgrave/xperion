@@ -1221,6 +1221,10 @@ export const Campaigns = [
         name: '인디조아 탐험대와 중앙 사막의 성배 4',
         video: 'https://www.youtube.com/embed/PIKfwVDWbeg',
       },
+      {
+        index: '2026090502',
+        name: '인디조아 탐험대와 중앙 사막의 성배 5',
+      },
     ],
   },
   {
@@ -3056,6 +3060,10 @@ export const Campaigns = [
         index: '2026082901',
         name: '사냥의 연회 7화',
         video: 'https://www.youtube.com/embed/gpigWY0mYHs',
+      },
+      {
+        index: '2026090501',
+        name: '사냥의 연회 8화',
       },
     ]
   }
