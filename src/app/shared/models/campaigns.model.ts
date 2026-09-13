@@ -900,6 +900,10 @@ export const Campaigns = [
         index: '87',
         name: '87화',
       },
+      {
+        index: '88',
+        name: '88화',
+      },
     ],
   },
   {
@@ -3025,6 +3029,10 @@ export const Campaigns = [
       {
         index: '2026090601',
         name: '시트론 섬의 탐색자들 5화',
+      },
+      {
+        index: '2026091301',
+        name: '시트론 섬의 탐색자들 6화',
       },
     ]
   },
