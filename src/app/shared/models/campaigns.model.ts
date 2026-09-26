@@ -3103,7 +3103,7 @@ export const Campaigns = [
         name: '사냥의 연회 9화',
       },
       {
-        index: '2026092701',
+        index: '2026092601',
         name: '사냥의 연회 10화',
       },
     ]
