@@ -1237,6 +1237,11 @@ export const Campaigns = [
         video: 'https://www.youtube.com/embed/oZE9iNveJYU',
       },
       {
+        index: '2026092602',
+        name: '인디조아 탐험대와 중앙 사막의 성배 6',
+        video: 'https://www.youtube.com/embed/ydtIHC7eFvw',
+      },
+      {
         index: '2026091501',
         name: '불길한 핏자국 1',
         video: 'https://www.youtube.com/embed/ptGYveF9Bzk',
