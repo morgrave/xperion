@@ -3120,6 +3120,10 @@ export const Campaigns = [
         index: '2026092601',
         name: '사냥의 연회 10화',
       },
+      {
+        index: '2026100301',
+        name: '사냥의 연회 11화',
+      },
     ]
   }
 ];
