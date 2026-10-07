@@ -1260,6 +1260,10 @@ export const Campaigns = [
         name: '불길한 핏자국 2',
         video: 'https://www.youtube.com/embed/QEwE-nHX6sE',
       },
+      {
+        index: '2026100601',
+        name: '불길한 핏자국 3',
+      },
     ],
   },
   {
