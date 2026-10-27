@@ -1272,6 +1272,10 @@ export const Campaigns = [
         index: '2026100601',
         name: '불길한 핏자국 3',
       },
+      {
+        index: '2026102701',
+        name: '불길한 핏자국 4',
+      },
     ],
   },
   {
