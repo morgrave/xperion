@@ -923,6 +923,10 @@ export const Campaigns = [
         index: '92',
         name: '92화',
       },
+      {
+        index: '93',
+        name: '93화',
+      },
     ],
   },
   {
